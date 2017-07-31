@@ -1,0 +1,1461 @@
+numEmps,category,city,state,fundedDate,raisedAmt,raisedCurrency,round
+,web,Tempe,AZ,01-05-2007,6850000,USD,b
+,web,Tempe,AZ,01-10-2006,6000000,USD,a
+,web,Tempe,AZ,01-01-2008,25000000,USD,c
+7,web,Scottsdale,AZ,01-01-2008,50000,USD,seed
+,web,Phoenix,AZ,01-02-2008,3000000,USD,a
+105,software,Gilbert,AZ,01-10-2007,9000000,USD,a
+4,web,Scottsdale,AZ,01-01-2008,250000,USD,seed
+5,web,Scottsdale,AZ,01-10-2006,140000,USD,seed
+5,web,Scottsdale,AZ,25-01-2008,233750,USD,angel
+60,web,San Francisco,CA,01-12-2006,8500000,USD,b
+60,web,San Francisco,CA,01-10-2005,2800000,USD,a
+450,web,Palo Alto,CA,01-09-2004,500000,USD,angel
+450,web,Palo Alto,CA,01-05-2005,12700000,USD,a
+450,web,Palo Alto,CA,01-04-2006,27500000,USD,b
+450,web,Palo Alto,CA,01-10-2007,300000000,USD,c
+450,web,Palo Alto,CA,01-03-2008,40000000,USD,c
+450,web,Palo Alto,CA,15-01-2008,15000000,USD,c
+450,web,Palo Alto,CA,01-05-2008,100000000,USD,debt_round
+60,web,Palo Alto,CA,01-05-2006,10500000,USD,b
+60,web,Palo Alto,CA,01-03-2005,3000000,USD,a
+,web,Palo Alto,CA,01-12-2006,800000,USD,angel
+18,web,West Hollywood,CA,01-01-2007,1500000,USD,a
+18,web,West Hollywood,CA,01-03-2007,10000000,USD,b
+17,web,San Francisco,CA,01-07-2007,5400000,USD,b
+17,web,San Francisco,CA,01-05-2008,15000000,USD,c
+,web,San Francisco,CA,01-12-2005,1500000,USD,seed
+,web,Menlo Park,CA,01-05-2007,6300000,USD,a
+,web,Menlo Park,CA,16-03-2008,6500000,USD,b
+14,web,San Francisco,CA,01-06-2006,12000,USD,seed
+14,web,San Francisco,CA,01-01-2007,40000,USD,angel
+14,web,San Francisco,CA,01-06-2007,3710000,USD,a
+,web,San Diego,CA,01-06-2007,40000000,USD,b
+,web,San Diego,CA,01-06-2007,13500000,USD,a
+,web,Palo Alto,CA,01-05-2007,9000000,USD,a
+50,web,Mountain View,CA,01-11-2002,3800000,USD,a
+50,web,Mountain View,CA,01-07-2003,8500000,USD,b
+50,web,Mountain View,CA,01-04-2004,7000000,USD,c
+50,web,Mountain View,CA,01-02-2007,9000000,USD,d
+60,web,San Francisco,CA,01-06-2007,12500000,USD,a
+25,web,San Francisco,CA,01-06-2006,10520000,USD,c
+25,web,San Francisco,CA,01-09-2004,6500000,USD,b
+25,web,San Francisco,CA,13-06-2008,7500000,USD,d
+25,web,San Francisco,CA,10-05-2007,1000000,USD,c
+40,web,Santa Monica,CA,01-01-2006,5000000,USD,a
+40,web,Santa Monica,CA,01-01-2007,16000000,USD,b
+40,web,San Francisco,CA,01-07-2007,2250000,USD,a
+40,web,San Francisco,CA,01-12-2007,15000000,USD,b
+40,web,San Francisco,CA,10-03-2008,6100000,USD,b
+,web,San Diego,CA,01-04-2006,12500000,USD,b
+,web,San Diego,CA,01-08-2007,25000000,USD,c
+,web,San Diego,CA,01-07-2005,2250000,USD,a
+,web,San Diego,CA,3-06-2008,30000000,USD,d
+,web,Menlo Park,CA,01-10-2006,30000000,USD,c
+,web,Menlo Park,CA,01-12-2005,5000000,USD,a
+,web,Menlo Park,CA,01-04-2006,26000000,USD,b
+,web,Menlo Park,CA,01-10-2005,400000,USD,angel
+,web,Menlo Park,CA,01-01-2008,13000000,USD,c
+41,web,Palo Alto,CA,01-07-2007,44000000,USD,c
+41,web,Palo Alto,CA,01-04-2008,60000000,USD,d
+,web,Palo Alto,CA,01-08-2004,5200000,USD,a
+,web,Sunnyvale,CA,01-01-2005,5000000,USD,a
+,web,San Francisco,CA,01-02-2007,700000,USD,seed
+,web,San Francisco,CA,01-06-2007,4000000,USD,a
+22,web,Pleasanton,CA,01-07-2006,7000000,USD,b
+4,web,San Francisco,CA,01-10-2007,100000,USD,angel
+,web,San Francisco,CA,01-06-2007,20000000,USD,c
+,web,San Francisco,CA,01-04-2005,7500000,USD,a
+,web,San Francisco,CA,01-02-2006,12500000,USD,b
+20000,web,Mountain View,CA,01-06-1999,25000000,USD,a
+80,web,Mountain View,CA,01-05-2007,20000000,USD,c
+80,web,Mountain View,CA,01-03-2006,3000000,USD,a
+80,web,Mountain View,CA,01-04-2006,5000000,USD,b
+,web,San Bruno,CA,01-11-2005,3500000,USD,a
+,web,San Bruno,CA,01-04-2006,8000000,USD,b
+,web,Mountain View,CA,01-12-2007,2000000,USD,angel
+,web,Mountain View,CA,10-04-2008,11100000,USD,a
+,web,San Diego,CA,01-02-2006,6000000,USD,a
+15,web,San Mateo,CA,01-07-2007,10000000,USD,a
+,web,Palo Alto,CA,01-11-2006,15000000,USD,b
+,web,San Francisco,CA,01-09-2006,1000000,USD,a
+,web,San Francisco,CA,01-06-2007,8000000,USD,b
+,web,San Mateo,CA,01-06-2006,5000000,USD,a
+,web,San Mateo,CA,01-04-2007,20000000,USD,b
+,web,San Francisco,CA,01-10-2006,5000000,USD,a
+,web,San Francisco,CA,01-06-2007,10000000,USD,b
+,web,Mountain View,CA,01-01-2007,13000000,USD,a
+4,web,,CA,01-01-2007,100000,USD,angel
+30,web,Redwood City,CA,01-12-2006,7000000,USD,a
+,web,,CA,01-01-2007,4000000,USD,a
+,web,,CA,01-01-2007,4250000,USD,a
+,web,,CA,25-06-2008,8400000,USD,b
+0,web,San Francisco,CA,01-04-2007,3100000,USD,a
+,web,Hollywood,CA,01-05-2007,6000000,USD,a
+,web,Hollywood,CA,7-04-2008,25000000,USD,b
+,web,Palo Alto,CA,01-12-2007,15000000,USD,b
+11,web,San Francisco,CA,01-05-2006,3000000,USD,b
+11,web,San Francisco,CA,01-04-2005,500000,USD,a
+,web,Burlingame,CA,01-02-2006,6500000,USD,b
+,web,Burlingame,CA,01-08-2006,8000000,USD,c
+,web,Burlingame,CA,01-02-2005,7000000,USD,a
+,web,Burlingame,CA,01-09-2007,3500000,USD,d
+0,web,San Francisco,CA,26-06-2008,2000000,USD,c
+,web,San Francisco,CA,01-10-2006,10000000,USD,c
+,web,San Francisco,CA,01-10-2005,5000000,USD,b
+,web,San Francisco,CA,01-07-2004,1000000,USD,a
+,web,San Francisco,CA,26-02-2008,15000000,USD,d
+3,web,Santa Clara,CA,01-01-2007,450000,USD,angel
+21,web,Redwood City,CA,01-03-2006,3200000,USD,a
+21,web,Redwood City,CA,01-03-2007,8000000,USD,b
+,web,San Francisco,CA,01-02-2006,50000,USD,angel
+75,web,Santa Clara,CA,01-02-2007,15000000,USD,c
+75,web,Santa Clara,CA,01-01-2004,8000000,USD,b
+75,web,Santa Clara,CA,01-12-1999,2200000,USD,a
+75,web,Santa Clara,CA,01-10-2000,6800000,USD,a
+,web,San Mateo,CA,01-01-2007,1500000,USD,a
+,web,San Mateo,CA,01-03-2007,15000000,USD,b
+,web,San Mateo,CA,9-06-2008,35000000,USD,c
+,web,San Mateo,CA,27-05-2008,1000000,USD,unattributed
+20,web,San Francisco,CA,01-05-2006,1300000,USD,a
+,web,San Francisco,CA,01-09-2006,1000000,USD,a
+,web,San Francisco,CA,01-04-2007,1000000,USD,a
+64,web,San Francisco,CA,01-07-2005,8000000,USD,b
+64,web,San Francisco,CA,01-01-2008,50000000,USD,d
+,web,San Francisco,CA,01-05-2006,15000000,USD,a
+,web,San Francisco,CA,01-03-2006,15000000,USD,a
+,web,San Francisco,CA,01-01-2008,42500000,USD,b
+,web,San Francisco,CA,15-01-2008,42000000,USD,b
+,web,Brisbane,CA,01-07-2004,1100000,USD,a
+,web,Brisbane,CA,01-07-2005,10000000,USD,b
+,web,Brisbane,CA,01-12-2006,18500000,USD,c
+,web,Brisbane,CA,01-02-2008,65000000,USD,d
+,web,Brisbane,CA,01-02-2008,20000000,USD,d
+,web,Mountain View,CA,01-02-2005,7000000,USD,a
+,web,Mountain View,CA,01-10-2006,4000000,USD,b
+,web,Mountain View,CA,01-07-2007,15000000,USD,c
+,web,Redwood City,CA,01-07-2005,16000000,USD,a
+,web,Redwood City,CA,01-10-2007,30000000,USD,b
+,web,San Francisco,CA,01-09-2006,1000000,USD,angel
+80,web,Oakland,CA,01-01-2004,7800000,USD,b
+80,web,Oakland,CA,01-10-2005,12000000,USD,c
+80,web,Oakland,CA,2-03-2000,1500000,USD,a
+300,web,Foster City,CA,01-03-2000,1200000,USD,a
+300,web,Foster City,CA,01-05-2001,300000,USD,a
+300,web,Foster City,CA,01-02-2005,14000000,USD,b
+15,web,,CA,11-09-2006,350000,USD,a
+15,web,,CA,01-02-2007,2100000,USD,b
+,web,San Francisco,CA,01-09-2004,4000000,USD,a
+,web,San Francisco,CA,01-02-2006,8000000,USD,b
+,web,San Francisco,CA,01-11-2007,23000000,USD,c
+,web,San Francisco,CA,01-06-2005,1000000,USD,seed
+,web,San Francisco,CA,01-04-2008,5000000,USD,a
+40,web,Mountain View,CA,01-12-2005,3500000,USD,a
+40,web,Mountain View,CA,01-01-2007,9000000,USD,b
+40,web,Mountain View,CA,30-04-2008,25000000,USD,c
+13,web,San Francisco,CA,01-11-2006,100000,USD,angel
+,web,Mountain View,CA,01-11-2003,4700000,USD,a
+,web,Mountain View,CA,01-10-2004,10000000,USD,b
+,web,Mountain View,CA,01-01-2007,12800000,USD,c
+,web,Mountain View,CA,17-06-2008,53000000,USD,d
+,web,Berkeley,CA,01-03-2007,1600000,USD,a
+12,web,Palo Alto,CA,01-02-2007,10000000,USD,a
+,web,San Francisco,CA,01-01-2006,14000000,USD,a
+,web,San Francisco,CA,01-07-2007,21000000,USD,b
+19,web,Palo Alto,CA,01-10-2006,1500000,USD,a
+19,web,Palo Alto,CA,23-01-2008,6000000,USD,b
+,web,Redwood Shores,CA,01-07-2006,1800000,USD,a
+,web,Redwood Shores,CA,01-01-2008,8000000,USD,b
+,web,Palo Alto,CA,01-07-2007,5000000,USD,a
+,web,Los Angeles,CA,01-01-2006,10000000,USD,a
+,web,Los Angeles,CA,01-10-2006,40000000,USD,b
+,web,Los Angeles,CA,7-05-2008,51000000,USD,c
+,web,Santa Clara,CA,01-03-2005,1500000,USD,a
+,web,Santa Clara,CA,01-03-2006,2000000,USD,b
+,web,Santa Clara,CA,01-03-2007,1500000,USD,c
+18,web,San Francisco,CA,01-06-2006,325000,USD,a
+,web,Foster City,CA,01-03-2006,17000000,USD,b
+,web,Foster City,CA,01-03-2006,7700000,USD,a
+,web,Mountain View,CA,01-01-2005,6200000,USD,a
+,web,San Francisco,CA,01-11-2007,6000000,USD,a
+,web,San Francisco,CA,20-06-2008,6000000,USD,b
+,web,San Mateo,CA,7-11-2006,7000000,USD,a
+,web,San Mateo,CA,5-10-2005,200000,USD,seed
+35,web,San Diego,CA,01-09-2006,7500000,USD,b
+35,web,San Diego,CA,01-03-2005,2100000,USD,a
+,web,San Mateo,CA,01-05-2006,5000000,USD,a
+,web,San Mateo,CA,01-07-2007,11000000,USD,b
+,web,Menlo Park,CA,01-04-2006,6000000,USD,a
+,web,Menlo Park,CA,01-09-2006,8000000,USD,b
+,web,Menlo Park,CA,01-06-2008,15000000,USD,c
+,web,Mountain View,CA,01-03-2006,13500000,USD,b
+,web,Mountain View,CA,5-08-2005,3000000,USD,a
+47,web,Palo Alto,CA,01-01-2005,8000000,USD,a
+47,web,Palo Alto,CA,01-12-2006,18000000,USD,b
+3,web,Woodside,CA,01-08-2005,1000000,USD,seed
+17,web,San Francisco,CA,01-02-2007,2000000,USD,a
+17,web,San Francisco,CA,4-04-2008,5000000,USD,b
+,web,San Francisco,CA,01-01-2007,11000000,USD,c
+,web,Palo Alto,CA,01-06-2004,300000,USD,angel
+,web,Palo Alto,CA,01-06-2005,3100000,USD,b
+,web,Palo Alto,CA,01-11-2007,9500000,USD,c
+,web,Millbrae,CA,01-12-2005,6250000,USD,a
+,web,Millbrae,CA,01-09-2007,15000000,USD,b
+100,web,San Francisco,CA,01-07-2007,20000000,USD,a
+100,web,San Francisco,CA,01-12-2007,15000000,USD,debt_round
+,web,San Francisco,CA,01-09-2005,1500000,USD,angel
+,web,San Francisco,CA,01-12-2005,7000000,USD,a
+,web,San Francisco,CA,01-07-2007,15000000,USD,b
+,web,Menlo Park,CA,01-07-2007,1500000,USD,angel
+,web,Menlo Park,CA,01-08-2007,10000000,USD,a
+,web,Menlo Park,CA,23-06-2008,10000000,USD,b
+,web,San Jose,CA,01-05-2007,1500000,USD,seed
+9,web,Santa Barbara,CA,01-05-2007,2700000,USD,a
+21,web,San Francisco,CA,14-05-2005,6000000,USD,a
+42,web,Emeryville,CA,17-04-2007,9000000,USD,a
+42,web,Emeryville,CA,01-06-2008,12000000,USD,b
+,web,San Mateo,CA,01-03-2006,5100000,USD,a
+,web,San Mateo,CA,01-01-2007,10000000,USD,b
+,web,San Mateo,CA,5-02-2008,19000000,USD,c
+,web,San Francisco,CA,01-06-2007,250000,USD,seed
+,web,San Francisco,CA,01-07-2007,1500000,USD,a
+,web,San Francisco,CA,01-07-2007,5000000,USD,a
+,web,San Francisco,CA,01-12-2007,1500000,USD,angel
+8,web,San Francisco,CA,01-06-2007,2300000,USD,a
+8,web,San Francisco,CA,30-05-2008,8000000,USD,b
+,web,Mountain View,CA,01-01-2005,5000000,USD,a
+20,web,San Francisco,CA,01-12-2006,4000000,USD,a
+20,web,San Francisco,CA,01-11-2005,300000,USD,angel
+20,web,San Francisco,CA,5-06-2008,3000000,USD,b
+,web,Palo Alto,CA,01-12-2006,12000000,USD,b
+,web,Palo Alto,CA,01-12-2007,20000000,USD,c
+,web,Sunnyvale,CA,01-06-2006,560000,USD,a
+,web,Sunnyvale,CA,01-02-2007,1500000,USD,a
+,web,Menlo Park,CA,01-10-2006,3500000,USD,a
+,web,Palo Alto,CA,01-03-2006,5500000,USD,a
+,web,Palo Alto,CA,01-06-2007,2000000,USD,a
+,web,Mill Valley,CA,01-12-2005,1750000,USD,a
+,web,San Francisco,CA,01-06-2005,100000,USD,seed
+,web,San Mateo,CA,01-03-2006,4000000,USD,a
+,web,San Mateo,CA,01-12-2006,10000000,USD,b
+,web,Sunnyvale,CA,01-12-2006,3200000,USD,a
+,web,Sunnyvale,CA,01-02-2006,700000,USD,seed
+,web,Sunnyvale,CA,20-03-2008,8000000,USD,b
+2,web,Mountain View,CA,01-01-2007,15000,USD,seed
+2,web,Mountain View,CA,01-04-2007,300000,USD,angel
+0,web,Campbell,CA,24-04-2007,10000000,USD,b
+0,web,Campbell,CA,01-08-2005,10000000,USD,a
+0,web,Campbell,CA,15-07-2008,14000000,USD,c
+,web,Mountain View,CA,01-07-2006,1500000,USD,angel
+,web,Redwood City,CA,01-02-2006,10000000,USD,a
+,web,Redwood City,CA,01-09-2006,7000000,USD,b
+,web,Redwood City,CA,01-07-2007,29000000,USD,c
+,web,Redwood City,CA,21-04-2008,20000000,USD,d
+,web,San Jose,CA,01-04-2000,100000000,USD,c
+,web,San Jose,CA,01-02-2001,90000000,USD,d
+,web,San Jose,CA,01-07-1999,4000000,USD,b
+,web,San Mateo,CA,01-10-2006,5500000,USD,a
+50,hardware,Santa Clara,CA,01-06-2005,21000000,USD,a
+,web,Redwood City,CA,01-03-2006,8500000,USD,a
+,web,San Francisco,CA,01-11-1999,7500000,USD,a
+,web,San Francisco,CA,01-05-2000,36000000,USD,b
+22,web,Mountain View,CA,01-05-2006,4100000,USD,c
+22,web,Mountain View,CA,01-06-2005,1000000,USD,b
+22,web,Mountain View,CA,01-12-2004,440000,USD,a
+,web,Palo Alto,CA,01-02-2006,1000000,USD,angel
+,web,San Diego,CA,19-12-2007,18000000,USD,a
+4,web,Palo Alto,CA,01-06-2007,15000,USD,seed
+,web,San Jose,CA,01-06-2006,8930000,USD,a
+,web,San Jose,CA,01-03-2007,12000000,USD,b
+,web,San Jose,CA,14-07-2008,11000000,USD,c
+,web,Del Mar,CA,01-08-2007,36600000,USD,a
+,web,Los Angeles,CA,01-11-2005,4000000,USD,a
+,web,Los Angeles,CA,01-04-2006,8700000,USD,b
+,web,Palo Alto,CA,01-07-2006,15000000,USD,b
+,web,Palo Alto,CA,01-08-2007,30000000,USD,c
+40,web,Redwood City,CA,01-11-2005,3300000,USD,b
+40,web,Redwood City,CA,01-06-2006,10000000,USD,c
+40,web,Redwood City,CA,21-05-2008,15000000,USD,d
+42,web,San Diego,CA,01-03-2006,5000000,USD,a
+42,web,San Diego,CA,01-10-2007,16500000,USD,b
+,web,San Francisco,CA,01-08-2007,10300000,USD,b
+,web,San Francisco,CA,01-07-2006,7000000,USD,a
+,web,San Francisco,CA,01-10-2007,4000000,USD,a
+,web,San Francisco,CA,6-08-2008,10000000,USD,b
+150,web,San Francisco,CA,01-10-2004,10000000,USD,b
+150,web,San Francisco,CA,01-03-2006,12000000,USD,c
+150,web,San Francisco,CA,23-04-2003,600000,USD,a
+,web,San Francisco,CA,01-05-2007,650000,USD,seed
+26,web,San Francisco,CA,01-11-2007,5000000,USD,a
+29,web,San Francisco,CA,01-09-2005,8750000,USD,a
+29,web,San Francisco,CA,01-12-2006,25000000,USD,b
+16,web,San Francisco,CA,01-03-2007,1000000,USD,a
+16,web,San Francisco,CA,01-08-2007,5000000,USD,b
+16,web,San Francisco,CA,01-04-2008,3000000,USD,b
+0,web,San Francisco,CA,01-05-2007,1000000,USD,angel
+0,web,San Francisco,CA,01-02-2008,3500000,USD,a
+,web,San Francisco,CA,01-07-2004,6000000,USD,a
+16,web,San Francisco,CA,01-08-2007,1000000,USD,seed
+16,web,San Francisco,CA,01-03-2008,7000000,USD,b
+135,web,San Jose,CA,01-02-2005,11500000,USD,a
+,web,Menlo Park,CA,01-10-2007,2000000,USD,a
+,web,Palo Alto,CA,01-09-2007,3500000,USD,a
+,web,Beverly Hills,CA,01-11-2007,750000,USD,a
+,web,Beverly Hills,CA,28-04-2008,3250000,USD,b
+,web,San Francisco,CA,01-07-2005,8900000,USD,a
+,web,San Francisco,CA,01-09-2006,15000000,USD,b
+,web,San Francisco,CA,9-07-2008,15000000,USD,c
+,web,Los Angeles,CA,01-12-2005,5600000,USD,a
+,web,Los Angeles,CA,01-09-2007,2850000,USD,b
+,web,Menlo Park,CA,01-02-2005,5600000,USD,a
+,web,Mountain View,CA,01-07-2003,1500000,USD,a
+,web,Mountain View,CA,01-09-2004,11800000,USD,b
+500,web,Emeryville,CA,01-02-2005,30000000,USD,a
+,web,San Francisco,CA,01-03-2001,22900000,USD,a
+,web,Marina Del Rey,CA,01-07-2004,11000000,USD,a
+,web,San Mateo,CA,01-12-2003,8400000,USD,a
+,web,San Mateo,CA,01-12-2003,13000000,USD,b
+,web,Pasadena,CA,01-06-2000,3000000,USD,a
+,web,Pasadena,CA,01-11-2004,110000000,USD,b
+465,web,San Francisco,CA,01-12-2002,2400000,USD,a
+465,web,San Francisco,CA,01-10-2003,13000000,USD,b
+465,web,San Francisco,CA,01-08-2006,10000000,USD,c
+465,web,San Francisco,CA,5-08-2008,20000000,USD,d
+,web,San Francisco,CA,01-05-2007,8900000,USD,b
+,web,Foster City,CA,01-11-2004,10500000,USD,a
+,web,Foster City,CA,01-07-2005,4000000,USD,a
+,web,San Francisco,CA,01-12-2005,5700000,USD,b
+,web,San Francisco,CA,01-05-2007,10000000,USD,c
+,web,San Francisco,CA,01-09-2005,2100000,USD,a
+,web,San Francisco,CA,10-07-2008,15000000,USD,d
+,web,Sunnyvale,CA,01-05-2007,2000000,USD,angel
+,web,Sunnyvale,CA,01-08-2007,10260000,USD,a
+15,web,Emeryville,CA,7-02-2008,1500000,USD,a
+,web,San Mateo,CA,01-03-2007,20000000,USD,a
+,web,San Mateo,CA,01-05-2007,5000000,USD,b
+,web,Mountain View,CA,01-05-2007,4175000,USD,a
+,web,Mountain View,CA,17-04-2007,850000,USD,angel
+,mobile,Menlo Park,CA,28-03-2006,10000000,USD,b
+,mobile,Menlo Park,CA,01-08-2005,5000000,USD,a
+,mobile,Menlo Park,CA,24-05-2007,3900000,USD,b
+,web,San Francisco,CA,01-05-1999,2000000,USD,a
+,web,San Francisco,CA,01-01-2000,10000000,USD,b
+,web,San Francisco,CA,01-10-2000,36000000,USD,c
+20,web,San Francisco,CA,01-05-2007,2500000,USD,a
+,web,Sausalito,CA,01-08-2007,4500000,USD,b
+,web,Sausalito,CA,01-04-2008,50000000,USD,c
+,web,San Francisco,CA,01-05-2007,18500000,USD,c
+,web,San Francisco,CA,17-05-2006,11000000,USD,b
+,web,San Francisco,CA,29-03-2005,5500000,USD,a
+100,web,Los Angeles,CA,01-04-2007,25000000,USD,a
+,web,San Mateo,CA,01-05-2005,2600000,USD,a
+,web,San Mateo,CA,01-01-2008,6000000,USD,b
+,web,San Diego,CA,01-05-2007,550000,USD,angel
+,web,Mountain View,CA,01-05-2001,7000000,USD,a
+,web,Mountain View,CA,01-02-2003,4000000,USD,b
+,web,Mountain View,CA,01-06-2007,4000000,USD,debt_round
+,web,Mountain View,CA,01-01-2008,8500000,USD,b
+14,web,Palo Alto,CA,01-09-2007,7500000,USD,a
+,web,San Francsico,CA,01-02-2008,4050000,USD,a
+19,web,Newport Beach,CA,01-06-2007,3000000,USD,a
+,web,Santa Clara,CA,01-12-2006,5400000,USD,a
+,web,Santa Clara,CA,01-06-2007,2000000,USD,b
+,web,San Jose,CA,01-06-2007,9500000,USD,a
+,web,Los Angeles,CA,01-08-2007,100000000,USD,a
+,web,Mountain View,CA,01-01-2006,6300000,USD,a
+,web,Ir vine,CA,01-06-2006,10000000,USD,a
+,web,Ir vine,CA,01-11-2007,100000000,USD,b
+,web,San Mateo,CA,01-03-2007,15000000,USD,b
+,web,Cupertino,CA,01-02-2006,18500000,USD,c
+,web,Cupertino,CA,01-06-2003,19500000,USD,b
+0,web,Redwood City,CA,28-01-2006,2000000,USD,a
+0,web,Redwood City,CA,2-04-2008,12000000,USD,c
+0,web,Redwood City,CA,18-12-2006,8000000,USD,b
+15,web,Palo Alto,CA,01-09-2007,500000,USD,a
+15,web,Palo Alto,CA,01-10-2007,3500000,USD,b
+,web,Santa Monica,CA,01-05-2006,120000000,USD,a
+,web,Santa Monica,CA,01-09-2006,100000000,USD,b
+,web,Santa Monica,CA,01-09-2007,100000000,USD,c
+,web,Santa Monica,CA,24-03-2008,35000000,USD,d
+8,web,San Francisco,CA,01-04-2007,1000000,USD,seed
+35,web,Palo Alto,CA,01-01-2008,7000000,USD,a
+22,web,Mountain View,CA,01-10-2007,4700000,USD,a
+22,web,Mountain View,CA,01-10-2006,325000,USD,seed
+22,web,Mountain View,CA,5-03-2008,12000000,USD,b
+4,web,La Jolla,CA,20-11-2007,255000,USD,angel
+4,web,La Jolla,CA,01-10-2006,177000,USD,angel
+6,web,San Francisco,CA,01-10-2006,250000,USD,angel
+,web,Santa Monica,CA,01-03-2006,7500000,USD,a
+,web,Santa Monica,CA,01-12-2006,40000000,USD,b
+,web,Inglewood,CA,01-08-2007,6000000,USD,a
+0,web,Santa Monica,CA,01-01-2008,5000000,USD,b
+0,web,Santa Monica,CA,01-01-2006,2500000,USD,a
+,web,West Palm Beach,CA,01-07-2007,1000000,USD,angel
+,web,Beverly Hills,CA,01-07-2007,21400000,USD,a
+,web,Sunnyvale,CA,01-07-2007,1000000,USD,a
+,web,San Francisco,CA,01-08-2007,9400000,USD,a
+,web,Burlingame,CA,01-05-2007,10000000,USD,a
+,web,Burlingame,CA,01-01-2008,13500000,USD,b
+,web,San Francisco,CA,01-07-2007,5000000,USD,a
+15,web,Los Angeles,CA,01-05-2006,1100000,USD,angel
+15,web,Los Angeles,CA,01-07-2007,2000000,USD,angel
+3,web,Berkeley,CA,01-05-2007,500000,USD,angel
+0,software,San Francisco,CA,01-06-2006,12000,USD,seed
+0,software,San Francisco,CA,01-11-2006,80000,USD,angel
+0,software,San Francisco,CA,01-03-2007,4260000,USD,a
+0,web,San Mateo,CA,18-11-2003,11700000,USD,c
+0,web,San Mateo,CA,24-04-2003,9200000,USD,b
+30,web,San Mateo,CA,01-01-2007,2000000,USD,a
+30,web,San Mateo,CA,18-03-2008,6000000,USD,b
+150,web,Mountain View,CA,15-07-2003,2000000,USD,unattributed
+0,web,Carlsbad,CA,01-05-2007,200000,USD,angel
+0,web,Marina del Rey,CA,01-09-2006,1200000,USD,angel
+9,web,San Francisco,CA,01-05-2006,400000,USD,seed
+0,web,San Francisco,CA,01-12-2007,7000000,USD,b
+,web,San Francisco,CA,01-08-2007,1700000,USD,a
+,web,San Francisco,CA,01-09-2007,1300000,USD,a
+,web,Redwood City,CA,01-09-2007,12000000,USD,a
+,web,Redwood City,CA,01-02-2008,12000000,USD,b
+,web,Menlo Park,CA,01-07-2007,4000000,USD,a
+,web,Santa Clara,CA,01-09-2007,6500000,USD,a
+6,web,Redwood City,CA,01-06-2007,935000,USD,angel
+6,web,Redwood City,CA,01-01-2008,365000,USD,angel
+6,web,Redwood City,CA,14-01-2008,1300000,USD,a
+,web,Sunnyvale,CA,10-07-2008,2500000,USD,a
+,web,San Francisco,CA,2-06-2008,10000000,USD,b
+,web,Santa Monica,CA,01-09-2007,5000000,USD,a
+,web,San Mateo,CA,01-04-2006,14500000,USD,c
+,web,Mountain View,CA,26-02-2008,5000000,USD,a
+15,web,San Francisco,CA,01-07-2007,3000000,USD,angel
+,web,Santa Monica,CA,01-10-2007,3000000,USD,b
+,web,Los Angeles,CA,01-10-2007,4000000,USD,a
+,web,Los Angeles,CA,01-10-2007,2000000,USD,debt_round
+,web,Los Angeles,CA,28-01-2008,15000000,USD,b
+,web,San Francisco,CA,01-05-2007,650000,USD,a
+,web,,CA,01-08-2007,200000,USD,angel
+,web,Palo Alto,CA,18-12-2007,4000000,USD,a
+30,web,Mountain View,CA,01-05-2007,9000000,USD,a
+,web,Redwood City,CA,01-10-2007,9000000,USD,b
+,web,San Francisco,CA,12-03-2008,4000000,USD,a
+,web,San Francisco,CA,18-06-2008,10000000,USD,b
+,web,San Francisco,CA,01-10-2006,12000000,USD,b
+,web,San Francisco,CA,01-10-2007,12600000,USD,a
+20,web,San Francisco,CA,01-07-2005,1100000,USD,a
+20,web,San Francisco,CA,01-01-2008,29500000,USD,b
+,web,San Francisco,CA,01-04-2006,5000000,USD,a
+,web,San Francisco,CA,01-02-2008,13000000,USD,b
+15,web,San Mateo,CA,12-05-2008,8300000,USD,a
+,web,Palo Alto,CA,01-10-2007,6000000,USD,a
+0,web,Mountain View,CA,01-08-2007,400000,USD,angel
+6,web,Redwood City,CA,25-03-2008,4300000,USD,a
+50,web,San Francisco,CA,01-02-2008,12700000,USD,b
+,web,San Francisco,CA,01-09-2007,1500000,USD,a
+0,web,,CA,01-12-2004,1350000,USD,a
+0,web,,CA,13-03-2007,5500000,USD,b
+,web,San Francisco,CA,01-08-2006,1000000,USD,a
+,web,Mountain View,CA,01-10-2007,3000000,USD,c
+,web,Palo Alto,CA,01-02-2007,3000000,USD,a
+,web,Palo Alto,CA,9-03-2008,9500000,USD,b
+,web,San Francisco,CA,01-12-2006,8000000,USD,seed
+,web,Los Altos,CA,01-10-2007,4500000,USD,b
+,web,San Francisco,CA,01-10-2007,4000000,USD,a
+3,web,San Francisco,CA,18-03-2008,500000,USD,a
+9,web,Los Altos,CA,01-10-2007,1000000,USD,a
+,web,San Francisco,CA,3-03-2008,6000000,USD,b
+,web,San Mateo,CA,01-06-2006,15500000,USD,c
+,web,San Mateo,CA,01-07-2004,12000000,USD,b
+,web,San Mateo,CA,01-06-2003,4200000,USD,seed
+,web,San Mateo,CA,29-02-2008,8000000,USD,d
+60,software,San Mateo,CA,6-03-2008,14600000,USD,c
+60,software,San Mateo,CA,15-04-2005,6250000,USD,b
+,web,San Francisco,CA,01-10-2007,5000000,USD,b
+10,web,Los Altos,CA,01-09-2007,10000000,USD,b
+,web,Sunnyvale,CA,01-08-2007,3000000,USD,a
+,web,Hollywood,CA,01-08-2007,100000,USD,angel
+,web,Mountain View,CA,01-06-2005,6000,USD,seed
+,web,Mountain View,CA,23-07-2007,8250000,USD,b
+,web,Sherman Oaks,CA,01-10-2007,3000000,USD,a
+,web,Sherman Oaks,CA,3-04-2008,2000000,USD,b
+,web,Redwood Shores,CA,21-02-2007,2800000,USD,a
+,web,Redwood Shores,CA,8-10-2007,10000000,USD,b
+35,web,San Mateo,CA,01-10-2007,12000000,USD,b
+35,web,San Mateo,CA,01-11-2006,14750000,USD,a
+,web,Palo Alto,CA,01-10-2005,8000000,USD,b
+,web,Palo Alto,CA,01-03-2005,2000000,USD,a
+,web,Palo Alto,CA,01-11-2007,5500000,USD,a
+,web,Palo Alto,CA,01-02-2007,1000000,USD,angel
+,web,Palo Alto,CA,01-05-2007,500000,USD,debt_round
+100,web,San Diego,CA,01-06-2006,8000000,USD,b
+100,web,San Diego,CA,01-10-2007,5000000,USD,c
+,web,Santa Clara,CA,01-11-2007,7000000,USD,b
+,web,Santa Clara,CA,01-04-2006,4000000,USD,a
+,web,San Mateo,CA,01-09-2007,6000000,USD,a
+475,web,Oakland,CA,01-03-1999,25000000,USD,a
+,web,Palo Alto,CA,01-09-2007,3000000,USD,a
+,web,Sausalito,CA,01-11-2007,50000000,USD,a
+,web,San Francisco,CA,01-10-2007,500000,USD,seed
+,web,Venice,CA,01-08-2007,1200000,USD,a
+,web,Venice,CA,20-06-2008,2500000,USD,b
+,web,San Francisco,CA,01-12-2006,1300000,USD,angel
+,web,Sunnyvale,CA,01-11-2007,800000,USD,debt_round
+100,web,Redwood City,CA,01-01-2007,5000000,USD,a
+100,web,Redwood City,CA,18-10-2007,10000000,USD,b
+25,web,Emeryville,CA,01-04-2008,7000000,USD,angel
+,web,Sunnyvale,CA,01-11-2007,12700000,USD,b
+,web,Palo Alto,CA,01-11-2007,7000000,USD,b
+24,web,Beverly Hills,CA,26-05-2008,7600000,USD,b
+,web,Palo Alto,CA,01-09-2007,6500000,USD,b
+8,web,Monterey,CA,01-12-2007,3000000,USD,a
+20,web,San Francisco,CA,01-12-2007,3000000,USD,a
+,web,Mountain View,CA,01-01-2007,2000000,USD,a
+,web,Mountain View,CA,01-09-2007,4000000,USD,b
+30,web,Los Angeles,CA,01-12-2007,6000000,USD,b
+30,web,Los Angeles,CA,01-06-2007,4000000,USD,a
+,web,Mountain View,CA,01-12-2007,10000000,USD,c
+,web,Santa Monica,CA,01-11-2007,750000,USD,angel
+28,web,Mountain View,CA,01-12-2007,10000000,USD,b
+28,web,Mountain View,CA,01-10-2006,3000000,USD,a
+,web,San Francisco,CA,01-12-2007,7200000,USD,a
+,web,Los Angeles,CA,01-04-2005,500000,USD,a
+,web,Los Angeles,CA,01-01-2006,1500000,USD,a
+,web,Los Angeles,CA,01-07-2006,4000000,USD,a
+,web,Los Angeles,CA,01-03-2007,3300000,USD,b
+,web,Los Angeles,CA,01-12-2007,6000000,USD,c
+22,web,Foster City,CA,9-04-2008,3000000,USD,b
+,web,San Francisco,CA,01-12-2007,16500000,USD,c
+,web,San Francisco,CA,01-01-2006,5000000,USD,b
+15,web,San Francisco,CA,01-04-2004,1000000,USD,seed
+20,hardware,San Diego,CA,01-12-2006,5000000,USD,a
+20,hardware,San Diego,CA,31-03-2008,12500000,USD,b
+,web,Emeryville,CA,01-10-2006,8000000,USD,b
+4,web,Palo Alto,CA,01-09-2007,40000000,USD,a
+,web,Berkeley,CA,01-01-2007,2350000,USD,a
+,web,Berkeley,CA,01-03-2008,5000000,USD,b
+,web,San Jose,CA,01-05-2005,20000000,USD,b
+,web,San Jose,CA,01-06-2006,75000000,USD,c
+,web,San Francisco,CA,01-05-2005,12000000,USD,b
+,web,San Francisco,CA,29-01-2008,12000000,USD,c
+270,hardware,San Carlos,CA,01-05-2006,40000000,USD,c
+270,hardware,San Carlos,CA,01-05-2007,45000000,USD,d
+270,hardware,San Carlos,CA,01-04-2004,7500000,USD,a
+270,hardware,San Carlos,CA,01-02-2005,13000000,USD,b
+270,hardware,San Carlos,CA,8-02-2008,40000000,USD,e
+,web,Redwood City,CA,01-10-2006,2000000,USD,a
+,web,Redwood City,CA,13-04-2008,4000000,USD,b
+,web,San Jose,CA,01-12-2006,8000000,USD,b
+,web,Palo Alto,CA,01-12-2007,1250000,USD,seed
+11,web,Los Altos,CA,01-05-2007,3000000,USD,a
+,web,Santa Monica,CA,01-01-2008,7000000,USD,debt_round
+,web,Santa Monica,CA,01-05-2000,35000000,USD,e
+,web,Santa Monica,CA,01-04-1999,16000000,USD,b
+,web,Santa Monica,CA,01-10-1999,30000000,USD,c
+,web,Mountain View,CA,01-02-2007,5000000,USD,a
+,web,Mountain View,CA,01-01-2008,20000000,USD,b
+,web,Cupertino,CA,01-01-2008,14500000,USD,d
+,web,Cupertino,CA,01-10-2005,18770000,USD,c
+,web,Cupertino,CA,01-08-2004,2000000,USD,a
+,web,Cupertino,CA,01-02-2005,5750000,USD,b
+11,software,San Jose,CA,01-01-2008,8000000,USD,a
+10,web,Sunnyvale,CA,01-01-2007,2850000,USD,a
+,web,Palo Alto,CA,01-01-2008,1500000,USD,a
+0,web,San Mateo,CA,01-04-2007,6000000,USD,a
+2,web,San Francisco,CA,01-08-2007,500000,USD,a
+,web,San Jose,CA,01-08-2006,10000000,USD,a
+,web,San Jose,CA,01-10-2007,10000000,USD,b
+,web,San Francisco,CA,11-04-2007,4000000,USD,a
+,web,San Francisco,CA,01-01-2008,11000000,USD,b
+60,web,San Francisco,CA,01-01-2008,3500000,USD,a
+60,web,San Francisco,CA,13-07-2008,15000000,USD,b
+,web,Palo Alto,CA,01-10-2006,2500000,USD,a
+,web,Palo Alto,CA,01-07-2008,6000000,USD,b
+175,web,San Mateo,CA,01-09-2005,4100000,USD,a
+175,web,San Mateo,CA,01-06-2006,8000000,USD,b
+175,web,San Mateo,CA,01-02-2007,14300000,USD,c
+175,web,San Mateo,CA,01-05-2007,24900000,USD,d
+,web,San Francisco,CA,01-06-2006,1500000,USD,angel
+,web,San Francisco,CA,01-01-2008,8000000,USD,b
+,web,San Francisco,CA,01-06-2007,5000000,USD,a
+,web,Los Angeles,CA,01-03-2005,26000000,USD,a
+,web,Los Angeles,CA,01-03-2006,22800000,USD,b
+150,web,Los Angeles,CA,01-01-2007,60000000,USD,debt_round
+150,web,Los Angeles,CA,01-01-2008,150000000,USD,a
+90,other,San Francisco,CA,01-01-2008,10000000,USD,a
+90,other,San Francisco,CA,22-07-2008,29000000,USD,b
+,web,San Mateo,CA,01-01-2008,3500000,USD,a
+4,web,San Francisco,CA,01-05-2007,750000,USD,angel
+,web,San Mateo,CA,01-01-2008,27000000,USD,c
+,web,San Mateo,CA,01-02-2007,15000000,USD,b
+,web,San Mateo,CA,01-03-2006,15000000,USD,a
+,web,San Mateo,CA,01-02-2007,4000000,USD,debt_round
+,web,Redwood City,CA,01-11-2006,5000000,USD,a
+,web,Redwood City,CA,01-01-2007,15000000,USD,b
+,web,San Francisco,CA,01-07-2008,250000,USD,angel
+,web,San Francisco,CA,29-07-2005,15000000,USD,a
+3,web,San Francisco,CA,01-01-2008,20000,USD,seed
+3,web,San Francisco,CA,8-05-2008,3000000,USD,a
+9,web,San Francisco,CA,7-02-2008,900000,USD,seed
+5,web,Mountain View,CA,01-01-2008,900000,USD,angel
+10,web,San Mateo,CA,01-05-2006,2000000,USD,angel
+5,web,San Jose,CA,5-07-2007,100000,USD,seed
+,web,,CA,11-02-2008,320000,USD,seed
+30,web,Palo Alto,CA,01-02-2008,7800000,USD,b
+,web,South San Francisco,CA,01-02-2008,5800000,USD,b
+10,web,San Francisco,CA,29-08-2007,990000,USD,a
+5,web,Los Angeles,CA,01-12-2007,225000,USD,seed
+5,web,Los Angeles,CA,21-07-2008,1000000,USD,a
+32,web,Pasadena,CA,01-07-2005,10000000,USD,a
+,web,Redwood City,CA,01-06-2007,5000000,USD,a
+30,web,San Francisco,CA,3-03-2008,3500000,USD,a
+8,web,San Mateo,CA,01-11-2005,4000000,USD,a
+,web,Mill Valley,CA,01-02-2008,4250000,USD,a
+,web,Berkeley,CA,01-03-2007,1800000,USD,angel
+,web,Berkeley,CA,29-04-2008,2800000,USD,a
+,web,Palo Alto,CA,13-05-2008,15000000,USD,a
+,software,Palo Alto,CA,01-10-2001,36000000,USD,b
+,software,Palo Alto,CA,01-02-2003,35000000,USD,d
+,software,Palo Alto,CA,01-07-2004,37000000,USD,d
+,software,San Francisco,CA,01-02-2008,22000000,USD,a
+8,web,Palo Alto,CA,01-10-2007,2000000,USD,a
+11,web,Berkeley,CA,01-03-2007,1650000,USD,seed
+11,web,Berkeley,CA,7-04-2008,6500000,USD,a
+,software,Sunnyvale,CA,01-03-2006,6000000,USD,angel
+,software,Sunnyvale,CA,01-09-2007,3000000,USD,angel
+,mobile,Pleasanton,CA,8-02-2008,4500000,USD,a
+,mobile,Sunnyvale,CA,23-01-2008,3000000,USD,a
+,mobile,Cupertino,CA,8-07-2008,6000000,USD,a
+,mobile,San Francisco,CA,23-01-2008,12000000,USD,b
+,mobile,San Francisco,CA,01-06-2006,5000000,USD,a
+,mobile,San Francisco,CA,01-12-2006,6000000,USD,b
+,mobile,San Francisco,CA,18-03-2008,15000000,USD,c
+15,mobile,San Francisco,CA,01-08-2007,4000000,USD,a
+15,mobile,San Francisco,CA,01-02-2008,7200000,USD,b
+,mobile,San Francisco,CA,8-03-2007,3500000,USD,a
+,,Palo Alto,CA,8-03-2006,13500000,USD,a
+,,Palo Alto,CA,8-03-2006,3000000,USD,b
+,software,Mountain View,CA,01-07-2004,7000000,USD,a
+,software,Mountain View,CA,01-03-2005,17500000,USD,b
+,software,Mountain View,CA,01-04-2006,20000000,USD,c
+,software,Mountain View,CA,01-01-2008,40000000,USD,d
+3,web,Palo Alto,CA,01-04-2007,250000,USD,seed
+,web,Redwood City,CA,4-06-2008,35000000,USD,unattributed
+5,web,San Francisco,CA,31-12-2007,2000000,USD,a
+3,software,Oakland,CA,31-07-2007,250000,USD,seed
+3,software,Oakland,CA,8-05-2008,600000,USD,seed
+,web,Pasadena,CA,16-04-2008,7000000,USD,a
+15,web,San Francisco,CA,01-06-2006,2000000,USD,a
+,web,Palo Alto,CA,6-03-2008,2500000,USD,a
+,web,San Francisco,CA,20-02-2006,1000000,USD,a
+,web,San Francisco,CA,31-01-2007,2900000,USD,b
+,web,Los Angeles,CA,8-03-2008,800000,USD,angel
+,web,Palo Alto,CA,6-03-2008,11600000,USD,c
+,web,Palo Alto,CA,01-02-2005,5100000,EUR,b
+4,web,Los Angeles,CA,12-12-2007,500000,USD,seed
+,web,Santa Clara,CA,01-04-2004,22000000,USD,b
+,web,Santa Clara,CA,13-02-2007,28000000,USD,c
+,web,San Francisco,CA,01-06-2007,20000,USD,seed
+52,web,Mountain View,CA,01-07-2005,400000,USD,a
+52,web,Mountain View,CA,01-01-2006,3600000,USD,b
+52,web,Mountain View,CA,01-06-2007,12000000,USD,c
+52,web,Mountain View,CA,01-10-2007,15000000,USD,d
+52,web,Mountain View,CA,01-05-2008,12600000,USD,e
+,web,San Ramon,CA,29-06-2007,12750000,USD,c
+14,web,Los Angeles,CA,18-05-2007,4000000,USD,a
+,web,San Francisco,CA,01-03-2007,4250000,USD,unattributed
+,web,San Francisco,CA,28-07-2008,8000000,USD,c
+5,web,San Mateo,CA,01-05-2008,9000000,USD,b
+,web,San Ramon,CA,27-02-2008,7000000,USD,a
+,web,Santa Clara,CA,26-10-2005,4900000,USD,a
+,web,Mountain View,CA,8-06-2007,3000000,USD,b
+30,web,Redwood City,CA,13-03-2008,6500000,USD,a
+,web,San Mateo,CA,10-03-2008,2700000,USD,seed
+,web,San Mateo,CA,16-06-2008,10700000,USD,a
+,,San Francisco,CA,15-08-2007,2600000,USD,a
+3,mobile,San Francisco,CA,20-03-2007,1000000,USD,a
+25,web,Pasadena,CA,21-06-2007,7000000,USD,b
+,software,Santa Clara,CA,10-07-2007,10000000,USD,b
+20,web,Los Angeles,CA,01-02-2006,5000000,USD,a
+6,web,Agoura Hills,CA,6-06-2007,2000000,USD,angel
+6,web,Agoura Hills,CA,11-03-2007,1200000,USD,a
+,web,Oakland,CA,2-05-2007,250000,USD,seed
+,web,Oakland,CA,2-05-2008,550000,USD,angel
+150,web,Santa Monica,CA,24-02-2008,80000000,USD,c
+,,Cupertino,CA,28-08-2006,20000000,USD,d
+,,Cupertino,CA,19-07-2004,8000000,USD,c
+10,web,San Francisco,CA,7-05-2008,3000000,USD,a
+6,web,Santa Monica,CA,01-02-2008,250000,USD,angel
+,web,San Francisco,CA,25-03-2008,3000000,USD,unattributed
+75,software,Mountain View,CA,22-08-2007,17000000,USD,c
+,web,Mountain View,CA,25-03-2008,17500000,USD,c
+,web,Mountain View,CA,17-07-2008,8000000,USD,d
+,mobile,Mountain View,CA,26-03-2008,14000000,USD,b
+,mobile,Mountain View,CA,11-09-2006,10000000,USD,a
+,web,Pasadena,CA,9-07-2008,15600000,USD,a
+12,web,Sausalito,CA,27-03-2008,3000000,USD,b
+,web,Redwood City,CA,24-10-2006,4250000,USD,a
+,web,San Francisco,CA,01-12-2006,1500000,USD,angel
+,web,San Francisco,CA,2-04-2008,5000000,USD,a
+,software,San Francisco,CA,01-11-2005,2000000,USD,a
+,software,San Francisco,CA,31-03-2008,6300000,USD,b
+,web,San Mateo,CA,25-07-2007,5000000,USD,a
+3,web,Palo Alto,CA,30-08-2007,200000,USD,angel
+,web,Palo Alto,CA,2-04-2008,15500000,USD,b
+,web,Palo Alto,CA,26-04-2006,5000000,USD,a
+,web,San Mateo,CA,01-12-2006,2300000,USD,a
+,web,San Mateo,CA,3-05-2007,5700000,USD,b
+,mobile,Sunnyvale,CA,23-02-2006,25000000,USD,d
+,mobile,Sunnyvale,CA,9-03-2005,7500000,USD,c
+,mobile,Sunnyvale,CA,9-07-2004,10000000,USD,b
+,mobile,Sunnyvale,CA,28-01-2008,22000000,USD,e
+10,hardware,Pasadena,CA,17-01-2008,10000000,USD,a
+10,hardware,Pasadena,CA,21-04-2008,130000000,USD,b
+,software,San Francisco,CA,5-10-2006,2000000,USD,a
+,software,San Francisco,CA,9-04-2008,7250000,USD,b
+,hardware,Sunnyvale,CA,01-12-2004,1250000,USD,seed
+,hardware,Sunnyvale,CA,01-05-2005,15000000,USD,a
+,hardware,Sunnyvale,CA,01-08-2006,21000000,USD,b
+,hardware,Sunnyvale,CA,7-04-2008,40000000,USD,c
+,web,San Francisco,CA,11-06-2007,400000,USD,angel
+,web,San Francisco,CA,3-06-2008,3000000,USD,a
+150,software,El Segundo,CA,01-03-2008,20000000,USD,unattributed
+,web,San Francisco,CA,8-04-2008,4200000,USD,b
+,web,,CA,01-05-2008,500000,USD,seed
+10,web,Los Angeles,CA,15-03-2008,1000000,USD,angel
+10,web,Los Angeles,CA,01-07-2008,7000000,USD,a
+35,web,Emeryville,CA,15-02-2008,7500000,USD,a
+35,web,Emeryville,CA,01-11-2006,1100000,USD,seed
+,web,Foster City,CA,13-03-2007,1500000,USD,a
+,web,Foster City,CA,9-04-2008,6000000,USD,b
+,hardware,San Francisco,CA,01-10-1999,400000,USD,seed
+,hardware,San Francisco,CA,10-04-2008,9000000,USD,b
+,mobile,San Diego,CA,28-02-2006,6000000,USD,c
+,mobile,San Diego,CA,21-09-2003,3750000,USD,b
+,web,Santa Clara,CA,01-10-2007,288000,USD,seed
+6,mobile,San Francisco,CA,24-01-2007,20000,USD,seed
+,software,Aliso Viejo,CA,7-01-2008,8100000,USD,b
+,web,Los Gatos,CA,01-05-2007,10000000,USD,a
+,,Santa Monica,CA,15-04-2008,2000000,USD,unattributed
+12,mobile,San Jose,CA,01-12-2006,1100000,USD,angel
+5,web,San Francisco,CA,01-07-2007,1000000,USD,a
+9,web,Palo Alto,CA,01-08-2007,750000,USD,a
+,web,Los Angeles,CA,01-04-2007,3000000,USD,seed
+,web,San Francisco,CA,01-06-2008,1100000,USD,a
+5,web,San Francisco,CA,01-03-2007,350000,USD,seed
+5,web,San Francisco,CA,01-07-2007,500000,USD,angel
+6,web,San Francisco,CA,25-04-2008,4000000,USD,unattributed
+1,web,Mountain View,CA,01-12-2007,35000,USD,seed
+,web,San Francisco,CA,5-06-2008,8000000,USD,b
+10,web,San Bruno,CA,01-08-2006,8000000,USD,a
+10,web,San Bruno,CA,18-04-2007,19000000,USD,b
+,hardware,Sunnyvale,CA,28-04-2008,19000000,USD,c
+,web,Menlo Park,CA,01-02-2007,1000000,USD,angel
+,web,Menlo Park,CA,01-10-2007,5500000,USD,a
+,web,Menlo Park,CA,01-05-2007,500000,USD,debt_round
+,web,,CA,01-04-2008,3500000,USD,a
+,software,San Mateo,CA,4-04-2008,10000000,USD,b
+10,software,Sunnyvale,CA,01-03-2005,4000000,USD,a
+,software,Foster City,CA,5-05-2008,20000000,USD,e
+,software,San Mateo,CA,22-05-2007,2500000,USD,a
+20,software,Palo Alto,CA,01-10-2006,500000,USD,angel
+,hardware,Mountain View,CA,15-04-2008,15000000,USD,b
+,,Aliso Viejo,CA,12-05-2008,3000000,USD,unattributed
+,web,Petaluma,CA,23-04-2003,10000000,USD,b
+,web,Petaluma,CA,14-03-2005,18000000,USD,c
+,web,Petaluma,CA,3-07-2007,33000000,USD,d
+,,Los Angeles,CA,5-11-2007,8300000,USD,b
+,,Los Angeles,CA,14-03-2008,12200000,USD,c
+,web,San Francisco,CA,13-05-2008,3000000,USD,a
+,web,Palo Alto,CA,22-02-2007,5000000,USD,a
+,web,Palo Alto,CA,01-05-2008,11500000,USD,b
+6,software,Santa Clara,CA,01-10-2007,1000000,USD,angel
+6,web,Burbank,CA,19-03-2008,250000,USD,angel
+,software,San Francisco,CA,15-04-2008,4500000,USD,a
+,software,Sunnyvale,CA,11-07-2007,16000000,USD,b
+7,software,San Francisco,CA,01-06-2008,100000,USD,angel
+7,software,San Francisco,CA,01-05-2008,150000,USD,seed
+20,software,Culver City,CA,15-07-2008,2700000,USD,unattributed
+,web,Los Angeles,CA,14-05-2008,1000000,USD,a
+,web,Los Angeles,CA,01-12-2007,4200000,USD,a
+,web,Hollywood,CA,21-06-2007,3500000,USD,a
+,web,Menlo Park,CA,01-04-2006,8000000,USD,a
+35,mobile,Sunnyvale,CA,8-12-2006,6000000,USD,a
+,web,Redwood Shores,CA,6-08-2007,14000000,USD,b
+,,Cupertino,CA,6-06-2007,7000000,USD,b
+,software,Cupertino,CA,23-06-2008,11370000,USD,a
+,hardware,Westlake Village,CA,20-05-2008,21000000,USD,a
+,web,Redwood City,CA,16-05-2008,6600000,USD,a
+50,software,Redwood City,CA,01-11-2005,1000000,USD,angel
+50,software,Redwood City,CA,01-05-2007,5000000,USD,a
+,hardware,Mountain View,CA,7-03-2007,15000000,USD,b
+,hardware,Mountain View,CA,9-06-2005,12000000,USD,a
+,hardware,Mountain View,CA,12-06-2007,5100000,USD,b
+,mobile,Redwood City,CA,8-08-2005,5000000,USD,a
+,mobile,Redwood City,CA,01-12-2006,5500000,USD,a
+,mobile,Redwood City,CA,17-06-2008,12500000,USD,b
+,mobile,Redwood City,CA,01-06-2008,2000000,USD,debt_round
+,web,Menlo Park,CA,21-05-2008,5700000,USD,b
+,web,Menlo Park,CA,28-03-2007,1530000,USD,a
+3,web,Mountain View,CA,01-06-2007,15000,USD,seed
+,web,Emeryville,CA,31-12-2007,1265000,USD,a
+,web,San Francisco,CA,12-09-2005,7000000,USD,a
+,web,Mountain View,CA,8-05-2006,5800000,USD,a
+15,web,Redwood City,CA,01-10-2007,4200000,USD,a
+,software,Mountain View,CA,01-06-2007,4800000,USD,a
+,software,Mountain View,CA,28-05-2008,13000000,USD,b
+,web,Santa Monica,CA,9-04-2008,400000,USD,angel
+,software,San Mateo,CA,25-08-2006,7000000,USD,a
+5000,,Palo Alto,CA,30-07-2007,150000000,USD,unattributed
+11,,Los Angeles,CA,28-01-2008,10000000,USD,a
+5,biotech,La Jolla,CA,30-05-2008,250000,USD,seed
+,web,Campbell,CA,01-04-2006,11000000,USD,e
+,web,Campbell,CA,01-11-2003,4500000,USD,d
+,web,Campbell,CA,01-10-2000,55000000,USD,c
+,mobile,Santa Monica,CA,01-01-2008,4900000,USD,b
+16,web,Placentia,CA,15-02-2007,2000000,USD,a
+,web,San Mateo,CA,01-12-2003,750000,USD,a
+,web,San Mateo,CA,01-09-2004,5200000,USD,b
+,web,San Mateo,CA,01-03-2006,12000000,USD,c
+,hardware,Palo Alto,CA,30-03-2006,12550000,USD,a
+,web,Menlo Park,CA,01-07-2007,3000000,USD,a
+,web,Menlo Park,CA,16-03-2008,1500000,USD,a
+,web,Redwood City,CA,31-03-2008,5600000,USD,c
+,web,,CA,7-02-2008,1000000,USD,a
+37,web,Burlingame,CA,25-04-2007,8000000,USD,b
+21,web,San Francisco,CA,01-09-2007,1000000,USD,a
+9,cleantech,Livermore,CA,20-02-2008,21000000,USD,a
+9,cleantech,Livermore,CA,01-06-2007,1000000,USD,angel
+,web,San Mateo,CA,4-06-2008,6000000,USD,b
+9,web,Palo Alto,CA,01-07-2008,1800000,USD,angel
+,software,San Jose,CA,15-03-2005,6500000,USD,a
+,web,San Francisco,CA,10-05-2006,3800000,USD,a
+7,mobile,San Francisco,CA,01-03-2008,300000,USD,angel
+100,software,San Jose,CA,29-04-2008,15000000,USD,unattributed
+100,software,San Jose,CA,27-06-2007,14000000,USD,unattributed
+25,web,Menlo Park,CA,01-08-2007,9400000,USD,a
+,cleantech,Alameda,CA,10-06-2008,20000000,USD,b
+,,Irvine,CA,01-06-2004,15000000,USD,d
+,,Irvine,CA,01-12-2002,9000000,USD,c
+50,other,San Francisco,CA,01-07-2004,10000000,USD,b
+50,other,San Francisco,CA,01-02-2006,12400000,USD,c
+40,software,San Francisco,CA,01-06-2007,7400000,USD,a
+,software,San Francisco,CA,14-07-2008,3500000,USD,debt_round
+30,software,San Francisco,CA,01-05-2007,5000000,USD,b
+5,hardware,Santa Monica,CA,01-09-2003,100000,USD,seed
+5,hardware,Santa Monica,CA,01-05-2006,500000,USD,angel
+,web,Sausalito,CA,23-06-2008,11000000,USD,b
+,hardware,Irvine,CA,18-06-2008,26000000,USD,unattributed
+,web,Santa Ana,CA,22-05-2007,1300000,USD,a
+10,other,La Canada,CA,01-12-2006,500000,USD,seed
+10,other,La Canada,CA,01-02-2008,500000,USD,angel
+3,software,Oakland,CA,01-10-2007,10000,USD,seed
+,,Santa Clara,CA,22-12-2006,10000000,USD,b
+,,Santa Clara,CA,5-07-2008,10000000,USD,c
+,other,Mill Valley,CA,12-03-2008,3200000,USD,a
+,other,Menlo Park,CA,21-01-2008,10000000,USD,b
+,web,San Francisco,CA,11-07-2008,8000000,USD,unattributed
+10,other,Newport Beach,CA,28-07-2008,2000000,USD,angel
+,web,San Diego,CA,01-04-2004,120000,USD,a
+,software,San Mateo,CA,9-03-2006,31000000,USD,d
+,software,San Mateo,CA,4-04-2008,60000000,USD,e
+,,San Francisco,CA,18-07-2008,2500000,USD,seed
+,software,San Mateo,CA,13-03-2008,1100000,USD,a
+,software,San Mateo,CA,21-07-2008,10000000,USD,b
+3,web,Los Angeles,CA,01-01-2006,20000,USD,seed
+,hardware,Mountain View,CA,11-06-2007,5500000,USD,a
+,web,Sunnyvale,CA,23-01-2008,8000000,USD,a
+,software,Emeryville,CA,21-07-2008,10700000,USD,c
+,cleantech,San Francsico,CA,23-07-2008,2900000,USD,a
+8,web,San Francisco,CA,31-07-2007,4500000,USD,a
+,web,Palo Alto,CA,27-06-2008,1000000,USD,a
+80,web,Solana Beach,CA,5-07-2005,2500000,USD,a
+80,web,Solana Beach,CA,5-12-2006,5000000,USD,b
+,web,Mountain View,CA,29-07-2008,550000,USD,seed
+150,web,El Segundo,CA,28-02-2007,70000000,USD,a
+80,hardware,San Mateo,CA,01-08-2008,14500000,USD,b
+80,hardware,San Mateo,CA,2-05-2003,9500000,USD,a
+7,web,San Francisco,CA,01-08-2008,1000000,USD,a
+,hardware,Mountain View,CA,20-04-2002,13700000,USD,a
+,hardware,Mountain View,CA,5-01-2005,8000000,USD,b
+,hardware,Mountain View,CA,30-11-2005,24000000,USD,c
+,hardware,Mountain View,CA,6-01-2007,100000000,USD,d
+,hardware,Mountain View,CA,4-08-2008,50000000,USD,e
+,mobile,San Francisco,CA,01-08-2008,5000000,USD,seed
+,,Campbell,CA,4-08-2008,11000000,USD,a
+,web,Sunnyvale,CA,6-08-2008,11000000,USD,b
+4,web,Boulder,CO,01-05-2007,15000,USD,seed
+,web,Denver,CO,01-01-2006,5400000,USD,a
+,web,Denver,CO,01-07-2007,10000000,USD,b
+,web,Boulder,CO,01-03-2007,15000,USD,seed
+,web,Boulder,CO,01-10-2007,300000,USD,a
+,web,Boulder,CO,01-08-2007,15000,USD,seed
+,web,Boulder,CO,01-09-2007,250000,USD,a
+6,web,Boulder,CO,18-05-2007,15000,USD,seed
+6,web,Boulder,CO,01-10-2007,500000,USD,debt_round
+,web,Boulder,CO,01-08-2007,15000,USD,seed
+,web,Boulder,CO,01-08-2007,15000,USD,seed
+,web,Boulder,CO,01-08-2007,15000,USD,seed
+,web,Boulder,CO,28-02-2008,500000,USD,seed
+,web,Denver,CO,01-08-2007,15000,USD,seed
+,web,Denver,CO,01-03-2008,1000000,USD,angel
+,web,Denver,CO,23-06-2004,1400000,USD,a
+,web,Denver,CO,01-12-2007,12000000,USD,c
+,web,Denver,CO,01-12-2004,8600000,USD,b
+,web,Boulder,CO,01-06-2007,15000000,USD,b
+,web,Denver,CO,01-12-2007,8000000,USD,b
+,web,Boulder,CO,01-02-2008,2200000,USD,angel
+,web,Boulder,CO,27-02-2008,5600000,USD,a
+,web,Colorado Springs,CO,01-01-2008,7400000,USD,b
+,web,Colorado Springs,CO,01-11-2002,2100000,USD,a
+,web,Boulder,CO,01-01-2007,900000,USD,a
+,web,Boulder,CO,01-06-2007,3300000,USD,b
+8,web,Centennial,CO,01-03-2007,750000,USD,angel
+6,web,Boulder,CO,01-03-2008,1100000,USD,a
+,,Boulder,CO,01-02-2006,2600000,USD,a
+,,Boulder,CO,15-04-2008,6600000,USD,b
+,software,Boulder,CO,4-06-2008,16850000,USD,c
+,software,Boulder,CO,14-06-2006,8000000,USD,b
+,software,Boulder,CO,9-06-2008,6000000,USD,a
+,web,Stamford,CT,01-08-2005,5000000,USD,a
+,web,Hartford,CT,24-04-2008,1200000,USD,unattributed
+1,web,Hamden,CT,01-01-2007,30000,USD,seed
+1,web,Hamden,CT,01-11-2007,40000,USD,seed
+10,web,Fairfield,CT,01-07-2006,1100000,USD,a
+10,web,Fairfield,CT,01-09-2007,3300000,USD,b
+58,web,Norwalk,CT,01-05-2006,11500000,USD,c
+58,web,Norwalk,CT,01-12-2004,7000000,USD,b
+58,web,Norwalk,CT,01-12-2007,196000000,USD,d
+25,web,New Haven,CT,01-09-2007,375000,USD,seed
+,web,Shelton,CT,21-04-2008,6500000,USD,a
+10,web,Westport,CT,01-11-2007,350000,USD,angel
+9,web,New London,CT,30-03-2008,250000,USD,seed
+,cleantech,Washington,DC,01-09-2007,32000000,USD,d
+,cleantech,Washington,DC,01-05-2006,16000000,USD,b
+,cleantech,Washington,DC,01-09-2006,21000000,USD,c
+,cleantech,Washington,DC,28-03-2008,15000000,USD,d
+11,web,Washington,DC,01-03-2007,2300000,USD,a
+,web,Washinton,DC,01-02-2008,250000,USD,a
+,web,Washington,DC,12-02-2008,510000,USD,seed
+,web,Washington,DC,01-05-2000,2650000,USD,a
+,web,Washington,DC,01-05-2001,2000000,USD,a
+,web,Washington,DC,01-07-2008,2000000,USD,angel
+,web,Orlando,FL,01-06-2007,7000000,USD,b
+,web,Orlando,FL,01-10-2006,3000000,USD,a
+,web,Fort Lauderdale,FL,01-10-1999,60000000,USD,a
+,web,Fort Lauderdale,FL,01-01-2002,25000000,USD,a
+,web,Boca Raton,FL,01-11-2005,2000000,USD,a
+,web,Boca Raton,FL,01-07-2006,3000000,USD,a
+,web,Boca Raton,FL,01-08-2007,16600000,USD,b
+,web,Largo,FL,01-09-2007,50000000,USD,b
+,web,Miami,FL,01-08-2007,30000000,USD,c
+,web,Miami,FL,01-04-2006,5000000,USD,b
+6,web,North Palm Beach,FL,01-09-2007,2500000,USD,a
+3,web,Tampa,FL,01-01-2006,18000,USD,seed
+3,web,Tampa,FL,01-04-2006,100000,USD,angel
+,web,West Palm Beach,FL,01-01-2008,29600000,USD,b
+29,mobile,Miami,FL,01-02-2007,7500000,USD,a
+29,mobile,Miami,FL,01-02-2008,23000000,USD,b
+8,software,Estero,FL,01-12-2007,2250000,USD,angel
+10,web,Fort Lauderdale,FL,6-01-2007,1100000,USD,seed
+,web,Boca Raton,FL,2-06-2008,150000,USD,unattributed
+,cleantech,Naples,FL,23-06-2008,34500000,USD,unattributed
+10,web,Lakeland,FL,01-04-2006,3000000,USD,angel
+10,web,Lakeland,FL,01-03-2008,500000,USD,angel
+,web,Atlanta,GA,01-10-2007,10000000,USD,b
+,web,Atlanta,GA,01-05-2006,2200000,USD,seed
+,web,Atlanta,GA,01-07-2007,1250000,USD,a
+,web,Atlanta,GA,01-11-2007,1200000,USD,a
+,web,Atlanta,GA,01-09-2005,14000000,USD,a
+,web,Atlanta,GA,01-01-2007,4000000,USD,c
+,web,Atlanta,GA,01-01-2008,26000000,USD,d
+2,consulting,Atlanta,GA,30-04-2008,10000,USD,seed
+12,web,Fairfield,IA,24-04-2006,225000,USD,angel
+,mobile,Boise,ID,01-07-2007,1500000,USD,a
+,mobile,Boise,ID,01-01-2008,4000000,USD,b
+,web,Chicago,IL,01-11-2004,8400000,USD,a
+,web,Chicago,IL,01-06-2004,1000000,USD,a
+,web,Chicago,IL,01-04-2005,7000000,USD,b
+,web,Chicago,IL,01-06-2007,5000000,USD,a
+,web,Chicago,IL,01-11-2007,1100000,USD,a
+,web,Rolling Meadows,IL,01-01-2007,34000000,USD,a
+,web,Chicago,IL,01-11-2007,2500000,USD,angel
+,web,Chicago,IL,01-02-2008,4800000,USD,a
+2,web,Chicago,IL,01-01-2007,20000,USD,seed
+6,web,Chicago,IL,23-05-2008,3000000,USD,angel
+16,web,Skokie,IL,01-07-2007,1500000,USD,a
+18,web,Chicago,IL,17-01-2008,1600000,USD,a
+,web,Schaumburg,IL,3-06-2008,4000000,USD,a
+,cleantech,Peoria,IL,14-10-2004,4000000,USD,a
+,cleantech,Peoria,IL,10-06-2008,15000000,USD,c
+,cleantech,Peoria,IL,13-11-2006,10000000,USD,b
+68,software,Chicago,IL,01-09-2005,10000000,USD,a
+75,web,Carmel,IN,01-01-2007,6000000,USD,a
+75,web,Carmel,IN,01-11-2007,10000000,USD,b
+,web,Mishawaka,IN,7-04-2008,4500000,USD,a
+25,software,Indianapolis,IN,01-05-2007,1100000,USD,angel
+25,software,Indianapolis,IN,01-05-2008,1600000,USD,angel
+4,web,New Orleans,LA,10-05-2007,25000,USD,seed
+,web,Cambridge,MA,27-02-2007,7000000,USD,b
+,web,Cambridge,MA,29-11-2006,6200000,USD,a
+,web,Woburn,MA,01-12-2004,10000000,USD,b
+,web,Woburn,MA,01-12-2002,6000000,USD,a
+68,web,Boston,MA,01-03-2006,2500000,USD,a
+68,web,Boston,MA,01-12-2006,3500000,USD,a
+68,web,Boston,MA,01-05-2007,15000000,USD,b
+68,web,Boston,MA,28-12-2007,5000000,USD,b
+40,web,Boston,MA,01-03-2007,7000000,USD,a
+40,web,Boston,MA,01-04-2007,2000000,USD,angel
+,web,Boston,MA,01-07-2007,5000000,USD,a
+,web,Cambridge,MA,01-03-2005,5500000,USD,a
+,web,Cambridge,MA,01-11-2005,16200000,USD,b
+,web,Cambridge,MA,01-01-2007,59500000,USD,c
+,web,Cambridge,MA,01-09-2006,5000000,USD,b
+,web,Cambridge,MA,01-05-2008,4900000,USD,d
+,web,Waltham,MA,01-06-2007,9000000,USD,c
+,web,Boston,MA,01-06-2007,15000,USD,seed
+,web,Cambridge,MA,01-08-2007,5500000,USD,a
+80,web,Waltham,MA,01-07-2004,7000000,USD,a
+80,web,Waltham,MA,01-07-2004,7000000,USD,a
+,web,Cambridge,MA,2-04-2008,20000000,USD,b
+,web,Andover,MA,01-05-2007,14000000,USD,b
+25,mobile,Boston,MA,01-01-2007,3000000,USD,a
+,web,Waltham,MA,01-05-2007,6000000,USD,a
+,web,Waltham,MA,5-09-2007,12300000,USD,b
+,web,Waltham,MA,01-05-2007,3100000,USD,a
+,web,Lexington,MA,01-09-2007,6750000,USD,a
+,web,Lexington,MA,12-01-2006,15000000,USD,a
+,web,Needham,MA,01-06-2007,6500000,USD,a
+5,web,Cambridge,MA,29-01-2008,750000,USD,angel
+,web,Boston,MA,01-03-2007,22000000,USD,b
+,web,Boston,MA,01-04-2006,10000000,USD,a
+,web,Cambridge,MA,18-04-2008,3000000,USD,a
+2,web,Cambridge,MA,29-03-2008,400000,USD,angel
+,web,Cambridge,MA,01-09-2007,25000000,USD,c
+,web,Cambridge,MA,01-01-2007,9500000,USD,b
+,web,Cambridge,MA,01-09-2006,3000000,USD,a
+30,web,Newton,MA,01-09-2006,5100000,USD,a
+30,web,Newton,MA,30-04-2008,12000000,USD,b
+,web,Needham,MA,01-09-2007,10000000,USD,a
+4,other,Boston,MA,01-06-2005,300000,USD,angel
+10,web,Ashland,MA,01-10-2007,2300000,USD,a
+,web,Boston,MA,01-08-2007,10000000,USD,c
+,web,Boston,MA,6-10-2003,13000000,USD,b
+30,web,Acton,MA,01-09-2007,6000000,USD,a
+,web,Acton,MA,01-12-2006,5000000,USD,a
+,web,Acton,MA,01-10-2007,16000000,USD,b
+45,software,Waltham,MA,01-11-2007,7500000,USD,b
+30,web,Cambridge,MA,01-09-2007,5000000,USD,a
+30,web,Cambridge,MA,16-05-2008,12000000,USD,b
+30,web,Cambridge,MA,01-05-2006,500000,USD,seed
+3,mobile,Maynard,MA,01-09-2007,4000000,USD,a
+,web,Boston,MA,01-10-2007,5000000,USD,a
+11,web,Andover,MA,01-12-2007,7000000,USD,a
+,web,Watertown,MA,01-10-2007,30000000,USD,d
+,web,Watertown,MA,01-01-2007,40000000,USD,c
+,web,Watertown,MA,01-02-2006,30000000,USD,b
+55,web,Westborough,MA,01-11-2006,8000000,USD,a
+55,web,Westborough,MA,01-01-2008,45000000,USD,c
+55,web,Westborough,MA,01-01-2007,15600000,USD,b
+,web,Boston,MA,01-03-2007,5000000,USD,a
+,web,Boston,MA,01-01-2008,13500000,USD,b
+,web,Boston,MA,01-01-2006,800000,USD,seed
+500,web,Cambridge,MA,01-06-2004,15000000,USD,c
+500,web,Cambridge,MA,01-01-2008,15000000,USD,d
+500,web,Cambridge,MA,01-11-2001,15000000,USD,b
+500,web,Cambridge,MA,01-01-2001,10000000,USD,a
+70,software,Cambridge,MA,01-01-2000,15000000,USD,seed
+70,software,Cambridge,MA,22-02-2005,7000000,USD,a
+70,software,Cambridge,MA,01-06-2006,13100000,USD,b
+70,software,Cambridge,MA,4-04-2007,26500000,USD,c
+5,web,Cambridge,MA,01-02-2008,100000,USD,angel
+,web,Newton,MA,01-02-2008,16700000,USD,a
+,web,Burlington,MA,3-03-2008,32500000,USD,d
+,web,Burlington,MA,01-02-2007,2400000,USD,a
+,web,Burlington,MA,01-07-2008,6000000,USD,b
+2,web,Boston,MA,01-03-2007,100000,USD,seed
+,web,Boston,MA,24-04-2008,25000000,USD,a
+,web,Wellesley,MA,9-11-2007,2000000,USD,a
+,web,Wellesley,MA,2-05-2008,3000000,USD,unattributed
+200,web,Westwood,MA,29-04-2008,40000000,USD,c
+200,web,Westwood,MA,9-05-2005,30000000,USD,b
+5,web,Boston,MA,01-08-2007,1050000,USD,angel
+,web,Newton,MA,14-04-2006,4400000,USD,a
+,web,Newton,MA,18-12-2006,7500000,USD,b
+,biotech,Cambridge,MA,01-12-2004,13000000,USD,a
+,biotech,Cambridge,MA,8-03-2005,27000000,USD,b
+,biotech,Cambridge,MA,19-04-2006,37000000,USD,c
+30,web,Cambridge,MA,23-07-2008,2000000,USD,seed
+,web,Waltham,MA,14-02-2000,2000000,USD,a
+,web,Waltham,MA,26-02-2001,20000000,USD,c
+,web,Waltham,MA,7-06-2000,20000000,USD,b
+40,software,Cambridge,MA,01-12-2004,5000000,USD,a
+40,software,Cambridge,MA,01-04-2006,8000000,USD,b
+200,consulting,Boston,MA,01-06-2008,12000000,USD,c
+200,consulting,Boston,MA,20-11-2006,13000000,USD,b
+200,consulting,Boston,MA,9-03-2005,7000000,USD,a
+,hardware,Burlington,MA,01-05-2003,6200000,USD,a
+,hardware,Burlington,MA,01-05-2004,6700000,USD,b
+25,web,Watertown,MA,01-04-2007,1000000,USD,angel
+,web,Boston,MA,01-05-2008,15000,USD,seed
+,web,Boston,MA,8-07-2008,9000000,USD,a
+,web,Burlington,MA,14-07-2008,7000000,USD,unattributed
+,software,Cambridge,MA,17-07-2008,22400000,USD,unattributed
+,web,Boston,MA,21-07-2008,1400000,USD,unattributed
+7,web,North Andover,MA,01-10-2007,340000,USD,seed
+35,web,Silver Spring,MD,01-08-2006,12000000,USD,a
+4,web,Baltimore,MD,01-01-2007,350000,USD,angel
+0,web,Chevy Chase,MD,01-10-2007,9500000,USD,c
+,web,Rockville,MD,01-10-2007,300000000,USD,a
+,web,Rockville,MD,30-05-2008,9900000,USD,a
+24,software,Rockville,MD,14-02-2005,6000000,USD,a
+24,software,Rockville,MD,10-10-2006,10000000,USD,b
+24,software,Rockville,MD,7-04-2008,4000000,USD,c
+1,web,Kennebunk,ME,10-01-2008,20000,USD,seed
+8,web,Portland,ME,01-09-2007,1050000,USD,a
+8,web,Portland,ME,01-09-2006,25000,USD,seed
+45,web,Ann Arbor,MI,01-11-2007,10000000,USD,b
+9,web,Richfield,MN,31-03-2008,600000,USD,angel
+,mobile,St. Louis,MO,16-05-2008,5000000,USD,b
+24,other,St. Louis,MO,01-11-2007,1250000,USD,seed
+300,web,Morrisville,NC,01-05-2007,30000000,USD,c
+300,web,Morrisville,NC,22-01-2004,7000000,USD,a
+300,web,Morrisville,NC,28-04-2005,18000000,USD,b
+,mobile,Charlotte,NC,01-03-2007,1500000,USD,angel
+,mobile,Charlotte,NC,10-06-2008,6500000,USD,a
+10,web,Durham,NC,22-04-2008,1200000,USD,a
+,,Winston-Salem,NC,19-02-2008,10000000,USD,b
+,,Winston-Salem,NC,15-05-2008,54000000,USD,c
+26,web,Cary,NC,13-04-2007,200000,USD,a
+4,web,Raleigh,NC,01-06-2007,300000,USD,angel
+45,other,Raleigh,NC,24-01-2006,6400000,USD,a
+45,other,Raleigh,NC,24-01-2007,9100000,USD,b
+45,other,Raleigh,NC,24-06-2008,10000000,USD,c
+6,web,Grand Forks,ND,8-07-2008,570000,USD,a
+,web,Omaha,NE,01-03-2006,27400000,USD,a
+6,web,Livingston,NJ,15-02-2007,1500000,USD,a
+,web,Metuchen,NJ,01-11-2007,2500000,USD,c
+,web,Metuchen,NJ,01-07-2006,2000000,USD,b
+,software,Edison,NJ,7-09-2005,7000000,USD,a
+,software,Edison,NJ,01-08-2006,20000000,USD,b
+,software,Edison,NJ,25-03-2008,10000000,USD,c
+,web,Jersey City,NJ,19-06-2008,11000000,USD,b
+,web,Jersey City,NJ,8-07-2008,75000000,USD,unattributed
+,web,North Brunswick,NJ,16-07-2008,200000,USD,unattributed
+,hardware,N. Branch,NJ,29-07-2008,12500000,USD,unattributed
+9,web,Albuquerque,NM,15-07-2006,700000,USD,a
+9,web,Albuquerque,NM,15-09-2007,600000,USD,b
+,other,Albuquerque,NM,17-06-2008,5200000,USD,unattributed
+7,web,New York City,NY,01-06-2007,1500000,USD,a
+1,mobile,New York,NY,01-12-2002,2800000,USD,a
+1,mobile,New York,NY,01-11-2003,5300000,USD,b
+1,mobile,New York,NY,23-07-2008,7500000,USD,d
+20,web,New York,NY,01-05-2007,1200000,USD,angel
+20,web,New York,NY,01-01-2008,1500000,USD,angel
+20,web,New York,NY,01-07-2008,10000000,USD,a
+23,software,New York,NY,01-01-2007,11000000,USD,b
+23,software,New York,NY,01-03-2008,20900000,USD,c
+17,web,Brooklyn,NY,01-02-2007,900000,USD,angel
+17,web,Brooklyn,NY,01-10-2007,1500000,USD,angel
+17,web,Brooklyn,NY,19-05-2008,3000000,USD,a
+55,web,New York,NY,01-08-2007,5500000,USD,a
+,web,New York,NY,01-05-2007,750000,USD,angel
+100,web,New York,NY,8-05-2008,15000000,USD,b
+100,web,New York,NY,18-04-2008,5000000,USD,a
+,web,New York,NY,01-06-2004,3000000,USD,a
+,web,New York,NY,01-06-2005,9000000,USD,b
+,web,New York,NY,20-07-2008,26000000,USD,d
+,web,New York,NY,01-03-2005,60000000,USD,a
+,web,New York,NY,01-12-2003,8000000,USD,a
+,web,New York,NY,21-03-2007,30000000,USD,b
+,web,New York,NY,01-06-2007,1000000,USD,angel
+,web,New York,NY,7-04-2008,6500000,USD,a
+20,web,New York,NY,01-08-2007,4500000,USD,b
+,web,New York,NY,01-03-2001,3000000,USD,a
+15,web,New York,NY,01-12-2007,2000000,USD,debt_round
+,web,New York,NY,01-01-2008,10000000,USD,a
+,mobile,New York,NY,13-03-2008,18000000,USD,e
+,web,"Brooklyn, New York",NY,01-09-2007,25000000,USD,d
+,web,"Brooklyn, New York",NY,01-03-2004,4000000,USD,a
+,web,"Brooklyn, New York",NY,01-03-2006,6000000,USD,b
+,web,"Brooklyn, New York",NY,01-04-2007,8000000,USD,c
+55,web,New Yorl,NY,01-05-2007,13500000,USD,b
+,web,New York,NY,01-06-2007,8300000,USD,b
+1,web,Astoria,NY,01-01-2007,300000,USD,angel
+18,web,New York,NY,01-06-2008,2300000,USD,a
+,web,New  York,NY,01-12-2006,300000,USD,angel
+,web,New  York,NY,01-11-2007,1000000,USD,a
+8,web,New York,NY,01-04-2007,300000,USD,angel
+8,web,New York,NY,01-11-2007,5000000,USD,a
+20,web,Brooklyn,NY,01-05-2007,2100000,USD,a
+,web,New York,NY,01-09-2007,25000000,USD,a
+,web,New York,NY,01-10-2007,8000000,USD,b
+,web,New York,NY,31-10-2007,750000,USD,a
+50,web,New York,NY,24-07-2008,8000000,USD,b
+,web,New York,NY,01-10-2007,4000000,USD,a
+,web,New York,NY,01-03-2004,5000000,USD,a
+50,web,New York,NY,01-02-2007,3000000,USD,a
+50,web,New York,NY,01-09-2007,8200000,USD,b
+50,web,New York,NY,01-03-2006,500000,USD,seed
+15,web,New York,NY,5-02-2008,1000000,USD,a
+,web,New York,NY,01-01-1999,300000,USD,a
+,web,New York,NY,01-04-1999,1360000,USD,b
+,web,New York,NY,01-09-1999,2750000,USD,c
+,web,New York,NY,01-05-2000,28000000,USD,d
+,web,New York,NY,17-06-2008,13000000,USD,debt_round
+,web,New York,NY,01-10-2007,1000000,USD,angel
+,web,Brooklyn,NY,01-11-2007,1250000,USD,a
+,web,Brooklyn,NY,10-03-2008,2700000,USD,b
+,web,New York,NY,01-09-2006,4200000,USD,a
+,web,New York,NY,01-12-2007,7000000,USD,b
+,web,New York,NY,01-11-2007,4750000,USD,a
+,web,New York,NY,01-12-2007,3800000,USD,a
+,web,New York,NY,01-12-2007,24000000,USD,a
+0,web,New York,NY,01-06-2007,5000000,USD,a
+45,web,Brooklyn,NY,01-06-2006,315000,USD,angel
+45,web,Brooklyn,NY,01-11-2006,1000000,USD,a
+45,web,Brooklyn,NY,01-07-2007,3250000,USD,b
+45,web,Brooklyn,NY,01-01-2008,27000000,USD,c
+10,web,New York,NY,01-02-2007,3500000,USD,angel
+10,web,New York,NY,01-01-2004,200000,USD,seed
+10,web,New York,NY,01-12-2007,2000000,USD,angel
+,web,New York,NY,01-09-2006,8400000,USD,a
+,web,New York,NY,01-01-2008,11000000,USD,b
+,web,New York,NY,01-08-2005,2000000,USD,angel
+,web,Roslyn Heights,NY,01-01-2008,5300000,USD,b
+,web,Roslyn Heights,NY,01-11-2006,5250000,USD,a
+,web,New York,NY,01-02-2006,12000000,USD,a
+,web,New York,NY,01-07-2007,25000000,USD,b
+,web,New York,NY,01-01-2008,5000000,USD,b
+200,web,New York,NY,8-11-2004,7250000,USD,a
+30,web,New York,NY,31-07-2007,630000,USD,seed
+30,web,New York,NY,01-04-2008,600000,USD,seed
+,web,New York,NY,01-01-2008,1000000,USD,seed
+,web,New York,NY,25-06-2008,4600000,USD,a
+7,web,New York,NY,01-01-2007,500000,USD,seed
+7,web,New York,NY,01-03-2007,800000,USD,angel
+,web,New York City,NY,01-01-2007,1000000,USD,seed
+,web,New York City,NY,25-02-2008,5000000,USD,a
+52,web,New York,NY,2-01-2007,8000000,USD,b
+85,web,New York City,NY,01-09-2007,10000000,USD,a
+85,web,New York City,NY,11-04-2008,13500000,USD,b
+150,web,New York,NY,7-07-2005,10000000,USD,b
+,web,New York,NY,01-01-2007,1250000,USD,a
+,web,New York,NY,9-07-2008,12000000,USD,unattributed
+15,web,New York,NY,01-01-2007,8000000,USD,a
+15,web,New York,NY,12-03-2008,15000000,USD,b
+,web,New York,NY,01-03-2008,1500000,USD,seed
+10,web,New York,NY,01-10-2007,500000,USD,angel
+,web,New York,NY,14-06-2005,5200000,USD,a
+,web,New York,NY,5-02-2007,10000000,USD,b
+,,New York,NY,16-07-2008,900000,USD,seed
+,web,New York,NY,31-03-2008,40000000,USD,a
+,web,New York,NY,01-04-2008,350000,USD,seed
+2,web,New York,NY,15-05-2007,350000,USD,seed
+6,web,New York City,NY,01-01-2008,150000,USD,seed
+,software,New York,NY,14-04-2008,25000000,USD,c
+,software,New York,NY,17-11-2003,8000000,USD,b
+3,web,,NY,29-04-2007,200000,USD,angel
+,web,New York,NY,7-03-2008,500000,USD,seed
+,software,New York,NY,12-12-2006,9000000,USD,b
+,software,New York,NY,01-11-2007,6800000,USD,b
+,web,Brooklyn,NY,30-04-2008,2500000,USD,a
+12,web,New York,NY,01-01-2006,500000,USD,angel
+3,web,Patchogue,NY,01-03-2004,30000,USD,seed
+,web,New York,NY,01-06-2008,16000000,USD,a
+,web,New York,NY,01-05-2008,2000000,USD,debt_round
+,web,New York,NY,21-05-2008,2500000,USD,a
+,mobile,New York City,NY,01-04-2008,3000000,USD,a
+20,web,New York,NY,11-03-2008,8600000,USD,b
+31,web,New York,NY,7-07-2008,12000000,USD,b
+40,other,Brooklyn,NY,01-12-2006,10000000,USD,seed
+,mobile,Ithaca,NY,01-06-2008,750000,USD,seed
+6,web,New York,NY,01-03-2007,500000,USD,seed
+,hardware,Toledo,OH,7-05-2008,22000000,USD,b
+150,web,Corvallis,OR,01-03-2006,6000000,USD,a
+150,web,Corvallis,OR,18-06-2007,25000000,USD,b
+150,web,Corvallis,OR,01-12-2007,24000000,USD,b
+,web,Portland,OR,01-08-2007,15000000,USD,a
+,web,Portland,OR,01-10-2005,800000,USD,angel
+,web,Portland,OR,01-02-2007,2600000,USD,a
+,web,Eugene,OR,01-09-2007,50000000,USD,a
+50,web,Portland,OR,27-03-2008,15000000,USD,a
+,web,Berwyn,PA,01-07-2007,13500000,USD,c
+,web,Berwyn,PA,01-09-2004,6600000,USD,a
+,web,Berwyn,PA,01-06-2006,8100000,USD,b
+,web,Berwyn,PA,01-06-2006,1500000,USD,debt_round
+4,web,Philadelphia,PA,30-03-2008,15000,USD,seed
+0,web,Berwyn,PA,01-07-2008,4000000,USD,a
+3,web,Philadelphia,PA,01-01-2007,100000,USD,seed
+25,web,Allentown,PA,01-10-2007,150000,USD,seed
+,web,King of Prussia,PA,01-11-2007,6500000,CAD,a
+10,web,Pittsburgh,PA,01-03-2008,300000,USD,angel
+3,web,Allentown,PA,15-06-2006,100000,USD,seed
+,software,Media,PA,7-11-2007,4000000,USD,a
+,software,Pittsburgh,PA,17-03-2008,4000000,USD,a
+,software,Pittsburgh,PA,12-07-2003,960000,USD,seed
+,software,Pittsburgh,PA,4-07-2002,500000,USD,seed
+,software,Pittsburgh,PA,01-06-2000,100000,USD,seed
+,software,Pittsburgh,PA,29-01-2001,100000,USD,seed
+,web,Oakmont,PA,01-10-2007,150000,USD,seed
+,web,Oakmont,PA,01-06-2008,250000,USD,seed
+8,web,Wayne,PA,3-01-2008,1000000,USD,a
+4,web,Philadelphia,PA,22-07-2008,2000000,USD,a
+,web,Providence,RI,01-05-2007,500000,USD,seed
+,software,Plano,TN,5-02-2007,7000000,USD,b
+,software,Plano,TN,01-01-2006,11500000,USD,a
+,software,Plano,TN,23-05-2008,3000000,USD,c
+,web,Austin,TX,01-06-2007,1000000,USD,seed
+,web,Austin,TX,01-05-2006,4000000,USD,a
+,web,Austin,TX,01-09-2007,8800000,USD,b
+,web,Austin,TX,18-06-2008,7100000,USD,c
+25,web,Austin,TX,19-03-2008,1000000,USD,a
+,web,Austin,TX,6-10-2004,8500000,USD,b
+,web,Austin,TX,14-11-2006,7000000,USD,c
+,web,Austin,TX,01-08-2007,8000000,USD,b
+3,web,Houston,TX,01-01-2008,2000000,USD,a
+,web,Austin,TX,01-06-2007,1000000,USD,a
+20,web,Austin,TX,01-11-2006,4000000,USD,a
+20,web,Austin,TX,01-11-2007,12000000,USD,b
+0,web,Houston,TX,01-08-2007,600000,USD,seed
+,web,Austin,TX,01-08-2007,77000000,USD,b
+,web,Austin,TX,10-07-2008,4500000,USD,a
+100,web,Carrollton,TX,01-01-2008,4000000,USD,a
+17,software,Austin,TX,01-10-2006,4500000,USD,seed
+54,hardware,Austin,TX,12-11-2007,15000000,USD,c
+,web,Austin,TX,01-06-2007,4500000,USD,a
+,web,Austin,TX,01-01-2007,5000000,USD,a
+,web,Austin,TX,01-03-2008,10000000,USD,b
+,web,Plano,TX,4-05-2008,30000000,USD,b
+50,software,Dallas,TX,20-05-2008,250000,USD,angel
+10,web,Austin,TX,01-06-2002,250000,USD,b
+6,consulting,Richardson,TX,23-09-1993,125000,USD,seed
+26,web,American Fork,UT,01-05-2005,1900000,USD,a
+26,web,American Fork,UT,01-05-2005,1900000,USD,a
+,web,Provo,UT,01-09-1999,33200000,USD,b
+,web,American Fork,UT,01-12-2006,11300000,USD,a
+,web,American Fork,UT,01-10-2007,34000000,USD,b
+,web,American Fork,UT,14-04-2008,46000000,USD,c
+,web,Provo,UT,01-09-2007,1200000,USD,a
+38,web,Orem,UT,14-03-2008,8000000,USD,c
+31,web,Lindon,UT,01-01-2008,8000000,USD,a
+,web,Salt Lake City,UT,01-07-2006,1500000,USD,a
+5,web,Lehi,UT,10-01-2007,80000,USD,seed
+,software,Sandy,UT,22-05-2004,6000000,USD,a
+,web,McLean,VA,01-05-2006,2500000,USD,a
+,web,McLean,VA,01-02-2007,5500000,USD,b
+,web,McLean,VA,20-05-2008,18000000,USD,c
+,web,McLean,VA,27-07-2007,10000000,USD,b
+,web,Reston,VA,01-05-2007,17000000,USD,b
+,web,Reston,VA,01-11-2007,25000000,USD,c
+,web,Arlington,VA,01-05-2007,5450000,USD,b
+,web,,VA,01-09-2007,1500000,USD,a
+,web,,VA,01-02-2008,2000000,USD,b
+,web,McLean,VA,01-01-2008,20000000,USD,c
+,web,McLean,VA,01-05-2006,13000000,USD,b
+,web,McLean,VA,01-04-2005,7000000,USD,a
+,web,Arlington,VA,01-01-2008,50000000,USD,a
+,web,Reston,VA,6-06-2002,20000000,USD,d
+,web,Reston,VA,13-08-2001,15000000,USD,c
+20,web,Reston,VA,28-01-2008,2000000,USD,a
+,,Sterling,VA,22-05-2005,2100000,USD,a
+9,web,,VA,01-01-2007,500000,USD,a
+100,software,Vienna,VA,5-07-2006,13500000,USD,a
+100,software,Vienna,VA,7-05-2008,16000000,USD,b
+2,web,Leesburg,VA,01-11-2007,350000,USD,seed
+120,software,Vienna,VA,21-07-2008,10000000,USD,a
+50,software,Chantilly,VA,19-11-2007,10000000,USD,a
+35,web,Seattle,WA,01-10-2005,5250000,USD,a
+35,web,Seattle,WA,01-01-2007,9500000,USD,b
+35,web,Seattle,WA,01-05-2005,25000000,USD,c
+,web,Seattle,WA,01-08-2005,19500000,USD,b
+,web,Seattle,WA,01-07-2006,18000000,USD,c
+,web,Seattle,WA,01-01-2005,8000000,USD,a
+,web,Seattle,WA,25-04-2008,7000000,USD,d
+,web,Seattle,WA,01-07-2007,2300000,USD,a
+,web,Seattle,WA,01-07-2007,700000,USD,seed
+26,web,Seattle,WA,01-10-2004,1500000,USD,a
+26,web,Seattle,WA,01-07-2005,7000000,USD,b
+26,web,Seattle,WA,01-01-2007,12100000,USD,c
+,web,Seattle,WA,01-01-2007,500000,USD,a
+6,web,Seattle,WA,01-07-2005,1250000,USD,a
+28,web,Seattle,WA,01-01-2006,2500000,USD,a
+28,web,Seattle,WA,01-01-2006,13300000,USD,b
+100,web,Seattle,WA,01-07-2007,12000000,USD,c
+100,web,Seattle,WA,01-05-2006,8000000,USD,b
+100,web,Seattle,WA,01-09-2005,770000,USD,a
+,web,Bellevue,WA,01-05-2000,7700000,USD,a
+,web,Bellevue,WA,01-05-2002,5000000,USD,b
+,web,Bellevue,WA,01-01-2005,10000000,USD,d
+,web,Bellevue,WA,01-03-2003,15500000,USD,c
+,web,Bellevue,WA,01-07-2007,20000000,USD,e
+,web,Seattle,WA,29-04-2008,1000000,USD,a
+,web,Seattle,WA,01-10-2004,3200000,USD,a
+,web,Seattle,WA,01-10-2005,7000000,USD,b
+,web,Seattle,WA,01-07-2007,10300000,USD,c
+,web,Seattle,WA,01-07-2007,2800000,USD,a
+,web,Seattle,WA,01-05-2007,250000,USD,angel
+,web,Seattle,WA,14-04-2008,6000000,USD,b
+,web,Seattle,WA,01-07-2004,2500000,USD,a
+,web,Seattle,WA,01-11-2005,8000000,USD,b
+4,web,Redmond,WA,01-08-2007,310000,USD,angel
+4,web,Redmond,WA,2-04-2008,1000000,USD,angel
+225,web,Bellevue,WA,01-03-2004,40000000,USD,a
+,web,Seattle,WA,01-11-2005,4000000,USD,a
+,web,Seattle,WA,01-08-2007,4500000,USD,b
+5,web,Seattle,WA,01-05-2007,750000,USD,seed
+5,web,Seattle,WA,01-01-2007,400000,USD,angel
+6,web,Seattle,WA,01-05-2007,500000,USD,angel
+6,web,Seattle,WA,6-02-2008,3700000,USD,a
+,web,Bellevue,WA,01-06-2007,2690000,USD,a
+60,web,Seattle,WA,01-08-2006,3500000,USD,a
+60,web,Seattle,WA,01-09-2007,12000000,USD,b
+155,web,Seattle,WA,01-10-2005,32000000,USD,a
+155,web,Seattle,WA,01-07-2006,25000000,USD,b
+155,web,Seattle,WA,01-09-2007,30000000,USD,c
+,web,Seattle,WA,01-09-2007,1250000,USD,a
+,web,Seattle,WA,01-04-2006,10000000,USD,b
+,web,Seattle,WA,01-09-2007,12400000,USD,c
+33,web,Seattle,WA,01-12-2007,10000000,USD,b
+,web,Seattle,WA,01-10-2007,2550000,USD,a
+,web,Seattle,WA,01-10-2007,9500000,USD,a
+,web,Seattle,WA,01-11-2006,7400000,USD,a
+,web,Seattle,WA,27-05-2008,15000000,USD,b
+,web,Seattle,WA,20-02-2008,6500000,USD,a
+,web,Seattle,WA,01-10-2007,1000000,USD,angel
+,web,Seattle,WA,14-10-2007,20000,USD,seed
+,web,Seattle,WA,01-10-2007,1500000,USD,angel
+20,web,Seattle,WA,01-07-2006,2000000,USD,a
+20,web,Seattle,WA,01-09-2007,10000000,USD,b
+,web,Seattle,WA,01-05-2007,5400000,USD,b
+,web,Seattle,WA,01-09-2007,7400000,USD,a
+,web,Seattle,WA,01-01-2008,5900000,USD,a
+,web,Redmond,WA,01-02-2006,5000000,USD,a
+,web,Redmond,WA,01-12-2007,7000000,USD,b
+,web,Bellevue,WA,01-12-2007,1000000,USD,angel
+,web,Seattle,WA,01-12-2006,1650000,USD,seed
+,web,Seattle,WA,01-08-2007,8000000,USD,a
+,web,Bellevue,WA,01-01-2008,6000000,USD,a
+50,web,Seattle,WA,01-01-2008,6500000,USD,b
+,web,Seattle,WA,01-08-2006,1400000,USD,angel
+,web,Seattle,WA,01-09-2005,1200000,USD,a
+,web,Seattle,WA,01-12-2007,500000,USD,angel
+11,web,Bellevue,WA,01-01-2008,1200000,USD,angel
+10,web,Bellevue,WA,01-01-2007,1000000,USD,angel
+4,web,Bellevue,WA,01-02-2008,850000,USD,a
+11,web,Seattle,WA,01-02-2007,1000000,USD,a
+125,web,Seattle,WA,01-08-2005,45000000,USD,a
+,web,Seattle,WA,19-12-2005,24000000,USD,e
+15,mobile,Kirkland,WA,25-10-2006,3000000,USD,a
+50,web,Seattle,WA,29-06-2007,3000000,USD,a
+,web,Seattle,WA,01-02-2007,9800000,USD,a
+,web,Seattle,WA,11-06-2008,10000000,USD,b
+8,web,Seattle,WA,01-03-2008,2250000,USD,a
+,web,,WA,24-04-2008,450000,USD,angel
+,cleantech,Kennewick,WA,22-04-2008,57000000,USD,b
+,cleantech,Kennewick,WA,01-06-2007,9500000,USD,a
+,web,Seattle,WA,16-10-2005,7000000,USD,b
+26,software,Seattle,WA,11-07-2007,3000000,USD,a
+26,software,Seattle,WA,01-06-2008,8000000,USD,c
+15,web,Seattle,WA,01-06-2007,2000000,USD,angel
+,web,Bellevue,WA,8-07-2008,1200000,USD,a
+75,software,Bothell,WA,01-01-2001,20500000,USD,unattributed
+,web,Seattle,WA,30-10-2007,9500000,USD,a
+,web,Seattle,WA,20-05-2008,10500000,USD,b
