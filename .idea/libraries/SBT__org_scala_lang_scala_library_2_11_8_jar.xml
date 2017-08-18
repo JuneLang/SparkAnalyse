@@ -12,14 +12,14 @@
     </properties>
     <CLASSES>
       <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar!/" />
-      <root url="file://$USER_HOME$/spark-2.2.0/spark/assembly/target/scala-2.11/jars" />
+      <root url="file://$USER_HOME$/spark-2.2.0/MySpark/assembly/target/scala-2.11/jars" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/" />
-      <root url="file://$USER_HOME$/spark-2.2.0/spark/assembly/target/scala-2.11/jars" />
+      <root url="file://$USER_HOME$/spark-2.2.0/MySpark/assembly/target/scala-2.11/jars" />
     </SOURCES>
-    <jarDirectory url="file://$USER_HOME$/spark-2.2.0/spark/assembly/target/scala-2.11/jars" recursive="false" />
-    <jarDirectory url="file://$USER_HOME$/spark-2.2.0/spark/assembly/target/scala-2.11/jars" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/spark-2.2.0/MySpark/assembly/target/scala-2.11/jars" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/spark-2.2.0/MySpark/assembly/target/scala-2.11/jars" recursive="false" type="SOURCES" />
   </library>
 </component>

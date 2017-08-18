@@ -7,7 +7,7 @@ import org.apache.spark.sql.types.{ArrayType, NumericType, StringType, Timestamp
 import spark.Transformation.{ArrayToString, ArrayToStrings, DateToInt, NullValuesHandler}
 import DataLoadFunctions._
 import org.apache.spark.ml.clustering._
-import org.apache.spark.ml.feature.{Bucketizer, MinMaxScaler, StringIndexer, VectorAssembler}
+import org.apache.spark.ml.feature._
 
 import scala.collection.mutable
 
@@ -71,6 +71,10 @@ object SimpleApp{
     val stringIndexers: Array[StringIndexer] = stringCols map (col =>
       new StringIndexer().setInputCol(col._1).setOutputCol(s"${col._1}-index").setHandleInvalid("skip"))
 
+    // one hot encoder
+    val oneHotEncoders:Array[OneHotEncoder] = stringIndexers map (indexers =>
+      new OneHotEncoder().setInputCol(indexers.getOutputCol).setDropLast(false))
+
     // bucketize numerics to compute the significance
     val quantiCols = colsWithTypes.filter(x => x._2 match {
       case i: NumericType => true
@@ -93,7 +97,6 @@ object SimpleApp{
     // multi-valued features vector
     val multiQualiFeatures = new VectorAssembler().setInputCols(arraytoStringss.flatMap(_.getOutputCols))
       .setOutputCol("multiQualiFeatures")
-
     // numericFeatures vector to be MaxMinScaler
     val numericFeatures = new VectorAssembler().setInputCols(quantiCols).setOutputCol("numericFeatures")
     val scaler = new MinMaxScaler().setInputCol(numericFeatures.getOutputCol).setOutputCol("scaledNumericFeatures")
@@ -102,13 +105,14 @@ object SimpleApp{
 //      stringIndexers.map(_.getOutputCol)).setOutputCol("singleFeatures")
 //    val features = new VectorAssembler().setInputCols(Array(multiQualiFeatures.getOutputCol, singleFeaures.getOutputCol))
 //      .setOutputCol("features")
-    val features = new VectorAssembler().setInputCols(stringIndexers.map(_.getOutputCol) :+ scaler.getOutputCol)
+    val features = new VectorAssembler().setInputCols(oneHotEncoders.map(_.getOutputCol) :+ scaler.getOutputCol)
 
     val pipeline = new Pipeline().setStages(Array(nullValuesHandler) ++
       arraytoStringss ++
       arraytoStrings ++
       dateToIntTransformers ++
       stringIndexers ++
+      oneHotEncoders ++
       bucketizers :+
       multiQualiFeatures :+
       numericFeatures :+
@@ -116,6 +120,12 @@ object SimpleApp{
 
     val initialDataFrame = pipeline.fit(df).transform(df)
     val inputDF = initialDataFrame.select(features.getOutputCol, stringIndexers.map(_.getOutputCol) ++ bucketizers.map(_.getOutputCol):_*)
+
+    val kmfdm = new KMeansForMixedData().setFeaturesCol(features.getOutputCol).
+      setInputQualitativeCols(stringIndexers.map(_.getOutputCol)).
+      setInputQuantitativeCols(bucketizers.map(_.getOutputCol))
+
+    val (coo, sig) = kmfdm.coOccurrencesAndSignificances(inputDF)
 
   }
 

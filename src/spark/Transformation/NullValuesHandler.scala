@@ -49,7 +49,7 @@ class NullValuesHandler extends Transformer{
             val df = dataset.na.fill("null", Array(col._1))
             recursiveHandler(cols.drop(1), df)
           case i : NumericType =>
-            val df = dataset.na.fill(Double.NegativeInfinity, Array(col._1))
+            val df = dataset.na.fill(2809, Array(col._1))
             recursiveHandler(cols.drop(1), df)
         }
       }
