@@ -41,7 +41,21 @@ class ArrayToString extends Transformer {
     val outputSchema = transformSchema(dataset.schema, logging = true)
     val schema = dataset.schema
     val inputType = schema($(inputCol)).dataType
-    val mapTerms = udf { (arr: scala.collection.mutable.WrappedArray[String]) => arr(0)}
+    val mapTerms = udf { (arr: scala.collection.mutable.WrappedArray[String]) => {
+      if (arr.length < 1) {
+        "others"
+      }
+      else {
+        val term = arr(0)
+        if ($(values).contains(term)) {
+          term
+        }
+        else {
+          "others"
+        }
+      }
+
+    }}
     val df = dataset.withColumn($(inputCol) + "-str", mapTerms(col($(inputCol))))
     df
   }

@@ -51,6 +51,8 @@ class NullValuesHandler extends Transformer{
           case i : NumericType =>
             val df = dataset.na.fill(2809, Array(col._1))
             recursiveHandler(cols.drop(1), df)
+//          case ArrayType(StringType, true) =>
+//            val df = dataset.na.fill(Array.empty[String], Array(col._1))
         }
       }
       else {

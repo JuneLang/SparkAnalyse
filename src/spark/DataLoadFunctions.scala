@@ -1,5 +1,6 @@
 package spark
 import org.apache.spark.sql.Dataset
+import spark.DataLoadFunctions.getColInfo
 
 /**
   * Created by junlang on 5/23/17.
@@ -30,12 +31,37 @@ object DataLoadFunctions {
     */
   def getColType(ds: Dataset[_], col: String) = getColInfo[String](ds)(col)("type")
 
-  def getIsMulti(ds: Dataset[_], col: String) = getColInfo[Boolean](ds)(col)("multi")
+  def getIsMulti(ds: Dataset[_], col: String) = {
+    getColType(ds, col) match {
+      case Some("terms") =>
+        getColInfo[Boolean](ds)(col)("typeSettings.separator") match {
+          case Some(i) => Some(true)
+          case None => Some(false)
+        }
+      case _ => None
+    }
 
-  def getColValues(ds: Dataset[_], col: String) = getColInfo[Seq[String]](ds)(col)("array")
+  }
 
-  def getMax(ds: Dataset[_], col:String) = getColInfo[Double](ds)(col)("max")
-  def getMin(ds: Dataset[_], col:String) = getColInfo[Double](ds)(col)("min")
+  def getColValues(ds: Dataset[_], col: String) = getColInfo[Seq[String]](ds)(col)("values")
+
+  def getMax(ds: Dataset[_], col:String) = {
+    import DataLoadFunctions.longToDouble
+    getColInfo[Double](ds)(col)("metrics.maxValue")// match {
+//      case Some(i) =>
+//        if (i.isInstanceOf[Long]) {
+//          Some(Long.long2double(i))
+//        }
+//        else {
+//          Some(i)
+//        }
+//      case _ => None
+//    }
+  }
+  def getMin(ds: Dataset[_], col:String) = {
+    import DataLoadFunctions.longToDouble
+    getColInfo[Double](ds)(col)("metrics.minValue")
+  }
 
   /**
     *  cleaning columns, just need `data-xxx`. Then, drop the columns wont be used, like ids, texts, etc...
@@ -63,9 +89,11 @@ object DataLoadFunctions {
     ds.columns.filter(col => {
       val t = getColType(ds, col)
       t match {
-        case Some("string") => true
+        case Some("terms") => true
         case _ => false
       }
     })
   }
+
+  implicit def longToDouble(l: Long):Double = Long.long2double(l)
 }

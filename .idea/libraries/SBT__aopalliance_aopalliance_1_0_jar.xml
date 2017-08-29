@@ -2,10 +2,14 @@
   <library name="SBT: aopalliance:aopalliance:1.0:jar">
     <CLASSES>
       <root url="jar://$USER_HOME$/.ivy2/cache/aopalliance/aopalliance/jars/aopalliance-1.0.jar!/" />
+      <root url="file://$USER_HOME$/spark-2.2.0/MySpark/assembly/target/scala-2.11/jars" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$USER_HOME$/.ivy2/cache/aopalliance/aopalliance/srcs/aopalliance-1.0-sources.jar!/" />
+      <root url="file://$USER_HOME$/spark-2.2.0/MySpark/assembly/target/scala-2.11/jars" />
     </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/spark-2.2.0/MySpark/assembly/target/scala-2.11/jars" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/spark-2.2.0/MySpark/assembly/target/scala-2.11/jars" recursive="false" type="SOURCES" />
   </library>
 </component>

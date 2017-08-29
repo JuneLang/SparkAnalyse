@@ -4,7 +4,7 @@
 		module="sparkanalyse_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20170726153411"
+		publication="20170824173226"
 	>
 		<description>
 		SparkAnalyse
@@ -33,8 +33,20 @@
 	</publications>
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.8" conf="scala-tool->default,optional(default)"/>
-		<dependency org="org.scala-lang" name="scala-library" rev="2.11.8" conf="scala-tool->default,optional(default);compile->default(compile)"/>
-		<dependency org="com.github.nscala-time" name="nscala-time_2.11" rev="2.16.0" conf="compile->default(compile)"/>
-		<dependency org="org.elasticsearch" name="elasticsearch-spark-20_2.11" rev="5.4.0" conf="compile->default(compile)"/>
+		<dependency org="org.scala-lang" name="scala-library" rev="2.11.8" conf="scala-tool->default,optional(default);compile->default(compile)">
+			<exclude org="org.slf4j" module="slf4j-log4j12" name="*" type="*" ext="*" conf="" matcher="exact"/>
+		</dependency>
+		<dependency org="com.github.nscala-time" name="nscala-time_2.11" rev="2.16.0" conf="compile->default(compile)">
+			<exclude org="org.slf4j" module="slf4j-log4j12" name="*" type="*" ext="*" conf="" matcher="exact"/>
+		</dependency>
+		<dependency org="org.elasticsearch" name="elasticsearch-spark-20_2.11" rev="5.4.0" conf="compile->default(compile)">
+			<exclude org="org.slf4j" module="slf4j-log4j12" name="*" type="*" ext="*" conf="" matcher="exact"/>
+		</dependency>
+		<dependency org="org.json4s" name="json4s-jackson_2.11" rev="{latestVersion}" conf="compile->default(compile)">
+			<exclude org="org.slf4j" module="slf4j-log4j12" name="*" type="*" ext="*" conf="" matcher="exact"/>
+		</dependency>
+		<dependency org="com.sksamuel.elastic4s" name="elastic4s-http_2.11" rev="6.0.0-M3" conf="compile->default(compile)">
+			<exclude org="org.slf4j" module="slf4j-log4j12" name="*" type="*" ext="*" conf="" matcher="exact"/>
+		</dependency>
 	</dependencies>
 </ivy-module>
